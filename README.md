@@ -1,40 +1,45 @@
-# Mistral AI Pixel Icons
+# Mistral AI Pixel Sprites
 
-> An unofficial, searchable archive of publicly available **Mistral AI pixel icons**, model illustrations, animated pixel cats, and transparent PNG/SVG-ready assets.
+> An unofficial, searchable collection of **transparent Mistral AI pixel-art sprites**: UI pictograms, model emblems, and animated pixel cats. This repository intentionally excludes website screenshots, page thumbnails, opaque backgrounds, and duplicate assets.
 
-![Animated Mistral pixel cat](cats/cat-chilling-black.gif)
+![Animated Mistral pixel cat](animations/cats/cat-chilling-black.gif)
 
-![Overview of all transparent Mistral pixel icons](assets/mistral-pixel-icons-overview.png)
+![Overview of all Mistral pixel sprites](showcase/icon-grid.png)
 
-## What is included
+## Library layout
 
-| Folder | Contents | Format |
+| Folder | Contents | Use |
 | --- | --- | --- |
-| [`icons/`](icons) | Individual pixel-art UI icons | SVG and WebP |
-| [`model-icons/`](model-icons) | Pixel illustrations for Mistral AI models | SVG |
-| [`png/icons/`](png/icons) | Ready-to-use PNG conversions of UI icons | PNG |
-| [`png/model-icons/`](png/model-icons) | Ready-to-use PNG conversions of model icons | PNG |
-| [`cats/`](cats) | Animated pixel-cat artwork | GIF |
+| [`sprites/ui/`](sprites/ui) | Pixel-perfect PNG UI sprites | Use directly in apps and games |
+| [`sprites/models/`](sprites/models) | Pixel-perfect PNG Mistral model emblems | Use directly in apps and games |
+| [`source/ui/`](source/ui) | Original transparent UI artwork | SVG or original WebP |
+| [`source/models/`](source/models) | Original transparent model artwork | SVG |
+| [`animations/cats/`](animations/cats) | Animated transparent pixel cats | GIF |
+| [`showcase/`](showcase) | Documentation-only icon grid | Repository preview |
+| [`metadata/`](metadata) | Sources, hashes, and provenance | Verification and attribution |
 
-All retained assets have transparent backgrounds. Repeated files, opaque-background brand images, decorative blocks, and lower-value raster duplicates were intentionally excluded. The `png/` directory contains 72 transparent PNG copies for environments where SVG is not practical; SVG remains the preferred format for responsive UI icons.
+## Quality policy
+
+- Every retained asset is a standalone transparent sprite or animation.
+- Website screenshots, UI captures, hero images, card thumbnails, and opaque-background imagery are excluded.
+- Identical source files are deduplicated by SHA-256.
+- PNG sprites are rendered with nearest-neighbor scaling, so their pixels stay crisp.
 
 ## Quick use
 
 ```html
-<img src="png/icons/icon-m-flower.png" alt="Mistral pixel flower icon" width="56" height="56" />
+<img src="sprites/ui/icon-m-flower.png" alt="Mistral pixel flower sprite" width="112" height="112" />
 ```
 
-For crisp pixel-art rendering, display raster assets at an integer multiple of their native dimensions and avoid smoothing:
-
 ```css
-.pixel-icon {
+.pixel-sprite {
   image-rendering: pixelated;
 }
 ```
 
 ## Source and provenance
 
-Assets were collected from public pages on [mistral.ai](https://mistral.ai/) on 24 June 2026, including the [Mistral brand page](https://mistral.ai/brand/). The full per-file source record, page references, SHA-256 hash, and file size are available in [`manifest.csv`](manifest.csv) and [`manifest.json`](manifest.json).
+Assets were collected from public pages on [mistral.ai](https://mistral.ai/) on 24 June 2026, including the [Mistral brand page](https://mistral.ai/brand/). The full per-file source record, page references, SHA-256 hash, and file size are available in [`metadata/manifest.csv`](metadata/manifest.csv) and [`metadata/manifest.json`](metadata/manifest.json).
 
 ## Important notice
 
@@ -42,4 +47,4 @@ This is an **unofficial, community-maintained archive**. Mistral AI names, logos
 
 ## Search keywords
 
-Mistral AI pixel icons · Mistral pixel art · Mistral model icons · Mistral SVG icons · Mistral PNG icons · Mistral brand assets · Mistral animated pixel cat
+Mistral AI pixel sprites · Mistral pixel art · Mistral UI sprites · Mistral model sprites · Mistral transparent PNG · Mistral SVG sprites · Mistral animated pixel cat
