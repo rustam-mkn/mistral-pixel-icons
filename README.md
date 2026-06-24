@@ -2,7 +2,7 @@
 
 > An unofficial, searchable archive of publicly available **Mistral AI pixel icons**, model illustrations, animated pixel cats, and transparent PNG/SVG-ready assets.
 
-![Preview of Mistral AI pixel icons](assets/mistral-pixel-icons-preview.png)
+![Animated Mistral pixel cat](cats/cat-chilling-black.gif)
 
 ## What is included
 
