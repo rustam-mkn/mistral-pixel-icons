@@ -1,8 +1,10 @@
 # Mistral AI Pixel Icons
 
-> An unofficial, searchable archive of publicly available **Mistral AI pixel icons**, model illustrations, animated pixel cats, brand marks, and PNG/SVG-ready assets.
+> An unofficial, searchable archive of publicly available **Mistral AI pixel icons**, model illustrations, animated pixel cats, and transparent PNG/SVG-ready assets.
 
-![Preview of Mistral AI pixel icons](assets/mistral-pixel-icons-preview.png)
+![Animated Mistral pixel cat](cats/cat-chilling-black.gif)
+
+![Overview of all transparent Mistral pixel icons](assets/mistral-pixel-icons-overview.png)
 
 ## What is included
 
@@ -13,10 +15,8 @@
 | [`png/icons/`](png/icons) | Ready-to-use PNG conversions of UI icons | PNG |
 | [`png/model-icons/`](png/model-icons) | Ready-to-use PNG conversions of model icons | PNG |
 | [`cats/`](cats) | Animated pixel-cat artwork | GIF |
-| [`pixel-graphics/`](pixel-graphics) | Pixel-art blocks and decorative compositions | WebP |
-| [`brand/`](brand) | Mistral icon and lockup variants | WebP |
 
-The `png/` directory contains raster PNG copies for use in environments where SVG is not practical. SVG remains the preferred format for responsive UI icons.
+All retained assets have transparent backgrounds. Repeated files, opaque-background brand images, decorative blocks, and lower-value raster duplicates were intentionally excluded. The `png/` directory contains 72 transparent PNG copies for environments where SVG is not practical; SVG remains the preferred format for responsive UI icons.
 
 ## Quick use
 
