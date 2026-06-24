@@ -1,0 +1,47 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="12.7998" y="12.7998" width="32" height="38.4" fill="#B9DAFF"/>
+<rect x="16" y="51.1997" width="3.2" height="6.4" transform="rotate(180 16 51.1997)" fill="#0082E6"/>
+<rect x="16" y="44.7998" width="3.2" height="25.6" transform="rotate(180 16 44.7998)" fill="#0082E6"/>
+<rect x="16" y="16" width="3.2" height="3.2" transform="rotate(180 16 16)" fill="#0082E6"/>
+<rect x="25.6001" y="19.1997" width="12.8" height="3.2" transform="rotate(180 25.6001 19.1997)" fill="#0082E6"/>
+<rect x="19.2002" y="12.7998" width="3.2" height="3.2" transform="rotate(180 19.2002 12.7998)" fill="#B9DAFF"/>
+<rect x="22.4058" y="9.6001" width="3.2" height="3.2" transform="rotate(180 22.4058 9.6001)" fill="#B9DAFF"/>
+<rect x="44.8057" y="12.7998" width="25.6" height="3.2" transform="rotate(180 44.8057 12.7998)" fill="#B9DAFF"/>
+<rect x="44.7998" y="9.6001" width="22.4" height="3.2" transform="rotate(180 44.7998 9.6001)" fill="#B9DAFF"/>
+<rect x="19.2061" y="12.7998" width="3.2" height="3.2" transform="rotate(180 19.2061 12.7998)" fill="#0082E6"/>
+<rect x="19.2002" y="16" width="3.2" height="3.2" transform="rotate(180 19.2002 16)" fill="#B9DAFF"/>
+<rect x="22.3999" y="12.7998" width="3.2" height="3.2" transform="rotate(180 22.3999 12.7998)" fill="#B9DAFF"/>
+<rect x="22.3999" y="16" width="3.2" height="3.2" transform="rotate(180 22.3999 16)" fill="#B9DAFF"/>
+<rect x="22.4058" y="9.6001" width="3.2" height="3.2" transform="rotate(180 22.4058 9.6001)" fill="#0082E6"/>
+<rect x="25.606" y="16" width="3.2" height="9.6" transform="rotate(180 25.606 16)" fill="#0082E6"/>
+<rect x="47.9663" y="51.1997" width="3.2" height="44.8" transform="rotate(180 47.9663 51.1997)" fill="#044298"/>
+<rect x="44.7666" y="9.6001" width="19.1605" height="3.2" transform="rotate(180 44.7666 9.6001)" fill="#0082E6"/>
+<rect x="44.8057" y="54.3999" width="32.0059" height="3.2" transform="rotate(180 44.8057 54.3999)" fill="#044298"/>
+<rect x="41.6001" y="48" width="22.3941" height="3.2" transform="rotate(180 41.6001 48)" fill="#0082E6"/>
+<rect x="41.6001" y="41.6001" width="22.3941" height="3.2" transform="rotate(180 41.6001 41.6001)" fill="#0082E6"/>
+<rect x="41.6001" y="35.1997" width="22.3941" height="3.2" transform="rotate(180 41.6001 35.1997)" fill="#0082E6"/>
+<rect x="41.6001" y="28.7998" width="22.3941" height="3.2" transform="rotate(180 41.6001 28.7998)" fill="#0082E6"/>
+<rect x="41.6001" y="22.3999" width="12.8" height="3.2" transform="rotate(180 41.6001 22.3999)" fill="#0082E6"/>
+<rect x="41.6001" y="16" width="12.8" height="3.2" transform="rotate(180 41.6001 16)" fill="#0082E6"/>
+<rect x="35.2002" y="22.3999" width="19.2" height="19.2" fill="#F5F4EF"/>
+<g clip-path="url(#clip0_21450_13899)">
+<path d="M46.1999 30.5996H43.3999V33.3996H46.1999V30.5996Z" fill="#FA500F"/>
+<path d="M43.3996 33.3999H40.5996V36.1999H43.3996V33.3999Z" fill="#FA500F"/>
+<path d="M40.5998 36.1997H37.7998V38.9997H40.5998V36.1997Z" fill="#FA500F"/>
+<path d="M48.9997 27.7998H46.1997V30.5998H48.9997V27.7998Z" fill="#FA500F"/>
+<path d="M51.7995 25H48.9995V27.8H51.7995V25Z" fill="#FA500F"/>
+<path d="M43.3996 27.7998H40.5996V30.5998H43.3996V27.7998Z" fill="#FA500F"/>
+<path d="M40.5998 25H37.7998V27.8H40.5998V25Z" fill="#FA500F"/>
+<path d="M51.7995 36.1997H48.9995V38.9997H51.7995V36.1997Z" fill="#FA500F"/>
+<path d="M48.9997 33.3999H46.1997V36.1999H48.9997V33.3999Z" fill="#FA500F"/>
+</g>
+<rect x="54.4058" y="44.7998" width="19.2" height="3.2" transform="rotate(180 54.4058 44.7998)" fill="#FA500F"/>
+<rect x="54.4058" y="41.5996" width="19.2" height="3.2" transform="rotate(-90 54.4058 41.5996)" fill="#FA500F"/>
+<rect x="32.0059" y="41.5996" width="19.2" height="3.2" transform="rotate(-90 32.0059 41.5996)" fill="#FA500F"/>
+<rect x="54.4058" y="22.3999" width="19.2" height="3.2" transform="rotate(180 54.4058 22.3999)" fill="#FA500F"/>
+<defs>
+<clipPath id="clip0_21450_13899">
+<rect width="14" height="14" fill="white" transform="translate(37.8003 25)"/>
+</clipPath>
+</defs>
+</svg>

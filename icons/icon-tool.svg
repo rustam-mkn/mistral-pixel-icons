@@ -1,0 +1,36 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M3.59998 43.2002H18V45.6002H3.59998V43.2002Z" fill="#55B3FB"/>
+<path d="M18 43.2002H32.4V45.6002H18V43.2002Z" fill="#044298"/>
+<path d="M10.8 36H25.2V43.2H10.8V36Z" fill="#55B3FB"/>
+<path d="M22.8 36H25.2V43.2H22.8V36Z" fill="#044298"/>
+<path d="M8.40002 4.7998H20.4V16.7998H8.40002V4.7998Z" fill="#B9DAFF"/>
+<path d="M20.4 4.7998H27.6V16.7998H20.4V4.7998Z" fill="#55B3FB"/>
+<rect x="22.8" y="7.2002" width="12" height="7.2" fill="#FF8204"/>
+<path d="M34.8 7.2002H37.2V14.4002H34.8V7.2002Z" fill="#044298"/>
+<path d="M37.2 7.2002H39.6V14.4002H37.2V7.2002Z" fill="#FA500F"/>
+<path d="M13.2 19.2002H22.8V36.0002H13.2V19.2002Z" fill="#FF8204"/>
+<path d="M13.2 16.7998H20.4V19.1998H13.2V16.7998Z" fill="#55B3FB"/>
+<path d="M10.8 7.2002H18V14.4002H10.8V7.2002Z" fill="#044298"/>
+<path d="M20.4 16.7998H25.2V19.1998H20.4V16.7998Z" fill="#0082E6"/>
+<rect x="13.2" y="19.2002" width="9.6" height="2.4" fill="#FA500F"/>
+<path d="M20.4 21.5996H22.8V35.9996H20.4V21.5996Z" fill="#FA500F"/>
+<path d="M15.6 21.5996H18V35.9996H15.6V21.5996Z" fill="#FBD679"/>
+<path d="M13.2 9.59961H15.6V11.9996H13.2V9.59961Z" fill="#B9DAFF"/>
+<path d="M34.8 14.4004H37.2V16.8004H34.8V14.4004Z" fill="#0082E6"/>
+<path d="M34.8 16.7998H37.2V19.1998H34.8V16.7998Z" fill="#044298"/>
+<path d="M34.8 21.5996H37.2V23.9996H34.8V21.5996Z" fill="#044298"/>
+<path d="M34.8 19.2002H37.2V21.6002H34.8V19.2002Z" fill="#0082E6"/>
+<path d="M27.6 26.4004H30V33.6004H27.6V26.4004Z" fill="#55B3FB"/>
+<rect x="30" y="26.4004" width="2.4" height="7.2" fill="#044298"/>
+<rect x="42" y="26.4004" width="2.4" height="7.2" fill="#044298"/>
+<rect x="39.6" y="24" width="2.4" height="2.4" fill="#044298"/>
+<rect x="32.4" y="26.4004" width="2.4" height="9.6" fill="#044298"/>
+<rect x="39.6" y="33.5996" width="2.4" height="2.4" fill="#044298"/>
+<path d="M30 24H39.6V26.4H30V24Z" fill="#55B3FB"/>
+<path d="M30 33.5996H32.4V35.9996H30V33.5996Z" fill="#55B3FB"/>
+<path d="M37.2 33.5996H39.6V35.9996H37.2V33.5996Z" fill="#55B3FB"/>
+<rect x="37.2" y="26.4004" width="4.8" height="7.2" fill="#55B3FB"/>
+<rect x="13.2" y="36" width="2.4" height="7.2" fill="#B9DAFF"/>
+<rect x="10.8" y="43.2002" width="2.4" height="2.4" fill="#B9DAFF"/>
+<path d="M32.4 7.2002H34.8V14.4002H32.4V7.2002Z" fill="#FBD679"/>
+</svg>

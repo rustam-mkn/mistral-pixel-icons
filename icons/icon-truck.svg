@@ -1,0 +1,30 @@
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect x="2.39999" y="9.59961" width="28.8" height="21.6" fill="#FF8204"/>
+<rect x="4.79999" y="9.59961" width="24" height="2.4" fill="#FF8204"/>
+<rect x="28.8" y="9.59961" width="2.4" height="21.6" fill="#C4001D"/>
+<rect x="2.39999" y="7.2002" width="26.4" height="2.4" fill="#FA500F"/>
+<rect x="31.2" y="28.7998" width="2.4" height="28.8" transform="rotate(90 31.2 28.7998)" fill="#C4001D"/>
+<rect x="28.8" y="26.4004" width="2.4" height="26.4" transform="rotate(90 28.8 26.4004)" fill="#FA500F"/>
+<rect x="2.39999" y="9.59961" width="2.4" height="19.2" fill="#FA500F"/>
+<path d="M22.8006 21.6004L22.8006 12L20.3991 12L20.3991 14.4017L17.9997 14.4017L17.9997 16.8012L15.6003 16.8012L15.6003 14.4017L13.2009 14.4017L13.2009 12L10.8015 12L10.8015 21.6004L8.39999 21.6004L8.39999 24L15.6003 24L15.6003 21.6004L13.2009 21.6004L13.2009 19.2008L15.6003 19.2008L15.6003 21.6004L17.9997 21.6004L17.9997 19.2008L20.3991 19.2008L20.3991 21.6004L17.9997 21.6004L17.9997 24L25.2 24L25.2 21.6004L22.8006 21.6004Z" fill="#C4001D"/>
+<rect width="26.4" height="2.4" transform="matrix(1 0 0 -1 4.79999 33.5996)" fill="#044298"/>
+<rect x="31.2" y="14.4004" width="7.2" height="2.4" fill="#044298"/>
+<rect x="31.2" y="24" width="9.6" height="9.6" fill="#044298"/>
+<rect width="2.4" height="9.6" transform="matrix(-1 0 0 1 43.2 21.5996)" fill="#044298"/>
+<rect width="4.8" height="2.4" transform="matrix(1 0 0 -1 9.60001 38.3994)" fill="#044298"/>
+<rect width="4.8" height="2.4" transform="matrix(1 0 0 -1 9.60001 31.1992)" fill="#044298"/>
+<rect width="9.6" height="2.4" transform="matrix(1 0 0 -1 7.20001 36)" fill="#044298"/>
+<rect width="9.6" height="2.4" transform="matrix(1 0 0 -1 7.20001 33.5996)" fill="#044298"/>
+<rect width="4.8" height="2.4" transform="matrix(1 0 0 -1 28.8 38.3994)" fill="#044298"/>
+<rect width="4.8" height="2.4" transform="matrix(1 0 0 -1 28.8 31.1992)" fill="#044298"/>
+<rect width="9.6" height="2.4" transform="matrix(1 0 0 -1 26.4 36)" fill="#044298"/>
+<rect width="9.6" height="2.4" transform="matrix(1 0 0 -1 26.4 33.5996)" fill="#044298"/>
+<rect x="43.2" y="26.4004" width="2.4" height="4.8" fill="#FEC63A"/>
+<rect x="31.2" y="16.7998" width="9.6" height="7.2" fill="#B9DAFF"/>
+<rect width="2.4" height="2.4" transform="matrix(-1 0 0 1 43.2 21.5996)" fill="#044298"/>
+<rect width="2.4" height="4.8" transform="matrix(-1 0 0 1 40.8 16.7998)" fill="#044298"/>
+<rect width="2.4" height="2.4" transform="matrix(-1 0 0 1 40.8 21.5996)" fill="#55B3FB"/>
+<rect width="2.4" height="4.8" transform="matrix(-1 0 0 1 38.4 16.7998)" fill="#55B3FB"/>
+<rect x="9.60001" y="31.2002" width="4.8" height="4.8" fill="#55B3FB"/>
+<rect x="28.8" y="31.2002" width="4.8" height="4.8" fill="#55B3FB"/>
+</svg>
