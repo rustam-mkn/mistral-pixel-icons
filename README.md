@@ -2,7 +2,7 @@
 
 > An unofficial, searchable collection of transparent **Mistral AI pixel-art sprites**, model emblems, and animated pixel cats. Website screenshots, page thumbnails, opaque backgrounds, and duplicate assets are excluded.
 
-![Animated Mistral pixel cat](animations/cats/cat-chilling-black.gif)
+![Animated Mistral pixel cat](source/cats/cat-chilling-black.gif)
 
 ![Overview of all Mistral pixel sprites](showcase/icon-grid.png)
 
