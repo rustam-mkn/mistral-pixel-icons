@@ -1,0 +1,514 @@
+[
+  {
+    "category": "animated-sprites",
+    "filename": "animations/cats/cat-chilling-black.gif",
+    "source_url": "https://mistral.ai/images/cat/cat-chilling-black.gif",
+    "source_pages": "https://mistral.ai/fr/products/vibe/ | https://mistral.ai/it/products/vibe/ | https://mistral.ai/products/vibe/",
+    "sha256": "ddf5fe5bf49a78fd135b9ff96edae54fb673219322c7b409f47feebfbe970271",
+    "bytes": 14635
+  },
+  {
+    "category": "animated-sprites",
+    "filename": "animations/cats/cat-sitting-black.gif",
+    "source_url": "https://mistral.ai/images/cat/cat-sitting-black.gif",
+    "source_pages": "https://mistral.ai/ | https://mistral.ai/brand/ | https://mistral.ai/fr/ | https://mistral.ai/fr/brand/ | https://mistral.ai/fr/industry/finance/ | https://mistral.ai/fr/industry/manufacturing/ | https://mistral.ai/fr/industry/public-sector/ | https://mistral.ai/fr/models/ | https://mistral.ai/fr/pricing/ | https://mistral.ai/fr/products/compute/ | https://mistral.ai/fr/products/forge/ | https://mistral.ai/fr/products/studio/ | https://mistral.ai/fr/products/vibe/ | https://mistral.ai/fr/products/vibe/code/ | https://mistral.ai/fr/services/ | https://mistral.ai/fr/solutions/ | https://mistral.ai/fr/solutions/coding/ | https://mistral.ai/fr/solutions/custom-model-training/ | https://mistral.ai/fr/solutions/document-ai/ | https://mistral.ai/fr/solutions/speech/ | https://mistral.ai/industry/finance/ | https://mistral.ai/industry/manufacturing/ | https://mistral.ai/industry/public-sector/ | https://mistral.ai/it/ | https://mistral.ai/it/brand/ | https://mistral.ai/it/industry/finance/ | https://mistral.ai/it/industry/manufacturing/ | https://mistral.ai/it/industry/public-sector/ | https://mistral.ai/it/models/ | https://mistral.ai/it/pricing/ | https://mistral.ai/it/products/compute/ | https://mistral.ai/it/products/forge/ | https://mistral.ai/it/products/studio/ | https://mistral.ai/it/products/vibe/ | https://mistral.ai/it/products/vibe/code/ | https://mistral.ai/it/services/ | https://mistral.ai/it/solutions/ | https://mistral.ai/it/solutions/coding/ | https://mistral.ai/it/solutions/custom-model-training/ | https://mistral.ai/it/solutions/document-ai/ | https://mistral.ai/it/solutions/speech/ | https://mistral.ai/models/ | https://mistral.ai/preview/ | https://mistral.ai/pricing/ | https://mistral.ai/products/compute/ | https://mistral.ai/products/forge/ | https://mistral.ai/products/studio/ | https://mistral.ai/products/vibe/ | https://mistral.ai/products/vibe/code/ | https://mistral.ai/services/ | https://mistral.ai/solutions/ | https://mistral.ai/solutions/coding/ | https://mistral.ai/solutions/custom-model-training/ | https://mistral.ai/solutions/document-ai/ | https://mistral.ai/solutions/speech/",
+    "sha256": "6fd280f752708c03e5d3be6ce8abf0b33f546b8d170d1938c766d10eddd90cb6",
+    "bytes": 22976
+  },
+  {
+    "category": "model-sprites",
+    "filename": "source/models/Icon-Model-7b.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/Icon-Model-7b.svg",
+    "source_pages": "https://mistral.ai/brand/ | https://mistral.ai/fr/brand/ | https://mistral.ai/it/brand/",
+    "sha256": "20e74c86ce0bf1286b8644e7aacf6a96fe880331dcfd6a1ebb22198b211f69d2",
+    "bytes": 4157
+  },
+  {
+    "category": "model-sprites",
+    "filename": "source/models/Icon-Model-Classifier.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/Icon-Model-Classifier.svg",
+    "source_pages": "https://mistral.ai/brand/ | https://mistral.ai/fr/brand/ | https://mistral.ai/fr/models/ | https://mistral.ai/fr/pricing/ | https://mistral.ai/it/brand/ | https://mistral.ai/it/models/ | https://mistral.ai/it/pricing/ | https://mistral.ai/models/ | https://mistral.ai/pricing/",
+    "sha256": "a16d504e9b26fc9ef997ad3fe40cb45822decc55b22bdfa327bc959d4f2d52f3",
+    "bytes": 2941
+  },
+  {
+    "category": "model-sprites",
+    "filename": "source/models/Icon-Model-Codestral.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/Icon-Model-Codestral.svg",
+    "source_pages": "https://mistral.ai/brand/ | https://mistral.ai/fr/brand/ | https://mistral.ai/fr/models/ | https://mistral.ai/fr/pricing/ | https://mistral.ai/it/brand/ | https://mistral.ai/it/models/ | https://mistral.ai/it/pricing/ | https://mistral.ai/models/ | https://mistral.ai/pricing/",
+    "sha256": "3ec5a7e76f3a77d9e58f835cf3fdb3dda1c52f40efafb4bbcd4533aa62ac8558",
+    "bytes": 1137
+  },
+  {
+    "category": "model-sprites",
+    "filename": "source/models/Icon-Model-Codestral_Embed.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/Icon-Model-Codestral%20Embed.svg",
+    "source_pages": "https://mistral.ai/brand/ | https://mistral.ai/fr/brand/ | https://mistral.ai/fr/models/ | https://mistral.ai/fr/pricing/ | https://mistral.ai/it/brand/ | https://mistral.ai/it/models/ | https://mistral.ai/it/pricing/ | https://mistral.ai/models/ | https://mistral.ai/pricing/",
+    "sha256": "69ac2623815744ed611b900d66510b06d405c327e82a8c3a425456ba0ee10454",
+    "bytes": 1375
+  },
+  {
+    "category": "model-sprites",
+    "filename": "source/models/Icon-Model-Devstral.svg",
+    "source_url": "Mistral brand page display asset: icons/icon-m-code-window.svg",
+    "source_pages": "https://mistral.ai/brand/",
+    "sha256": "31c5e6335a284eed4b9cb8b47719c8045de5b81eb6b799c09bcef10e6f12cec5",
+    "bytes": 1966
+  },
+  {
+    "category": "model-sprites",
+    "filename": "source/models/Icon-Model-Embed.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/Icon-Model-Embed.svg",
+    "source_pages": "https://mistral.ai/brand/ | https://mistral.ai/fr/brand/ | https://mistral.ai/fr/models/ | https://mistral.ai/fr/pricing/ | https://mistral.ai/it/brand/ | https://mistral.ai/it/models/ | https://mistral.ai/it/pricing/ | https://mistral.ai/models/ | https://mistral.ai/pricing/",
+    "sha256": "e2f007a4e9322fecfedec9dfbcf28abed994d2d37ac3df2549dae534b2ae2801",
+    "bytes": 3714
+  },
+  {
+    "category": "model-sprites",
+    "filename": "source/models/Icon-Model-Large_3.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/Icon-Model-Large%203.svg",
+    "source_pages": "https://mistral.ai/brand/ | https://mistral.ai/fr/brand/ | https://mistral.ai/fr/models/ | https://mistral.ai/fr/news/mistral-3/ | https://mistral.ai/fr/pricing/ | https://mistral.ai/it/brand/ | https://mistral.ai/it/models/ | https://mistral.ai/it/news/mistral-3/ | https://mistral.ai/it/pricing/ | https://mistral.ai/models/ | https://mistral.ai/news/mistral-3/ | https://mistral.ai/pricing/",
+    "sha256": "cececa5007973898768d2c3c8add43b32f7af91c8c13d3e816471a980129d973",
+    "bytes": 6750
+  },
+  {
+    "category": "model-sprites",
+    "filename": "source/models/Icon-Model-Leanstral.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/Icon-Model-Leanstral.svg",
+    "source_pages": "https://mistral.ai/brand/ | https://mistral.ai/fr/brand/ | https://mistral.ai/fr/models/ | https://mistral.ai/fr/pricing/ | https://mistral.ai/it/brand/ | https://mistral.ai/it/models/ | https://mistral.ai/it/pricing/ | https://mistral.ai/models/ | https://mistral.ai/pricing/",
+    "sha256": "3d6875f7b745e58bf33ce2e8ef7e595c1ed646db6f6c5dd4c7da1e49869d6b46",
+    "bytes": 2083
+  },
+  {
+    "category": "model-sprites",
+    "filename": "source/models/Icon-Model-Magistral.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/Icon-Model-Magistral.svg",
+    "source_pages": "https://mistral.ai/brand/ | https://mistral.ai/fr/brand/ | https://mistral.ai/fr/pricing/ | https://mistral.ai/it/brand/ | https://mistral.ai/it/pricing/ | https://mistral.ai/pricing/",
+    "sha256": "838d2b66f9fbcd8df3c765e5099c53c3c9500aaa49adc59667f91ad1e4862cbb",
+    "bytes": 2869
+  },
+  {
+    "category": "model-sprites",
+    "filename": "source/models/Icon-Model-Medium.svg",
+    "source_url": "Mistral brand page display asset: model-icons/2a1ffaf3-f171-460b-be1b-fc734aa776aa.svg",
+    "source_pages": "https://mistral.ai/brand/",
+    "sha256": "47c8d4b0bf38c886102f3ae86026e6281332688750fbef0fa0dc9a46f15b7f48",
+    "bytes": 6427
+  },
+  {
+    "category": "model-sprites",
+    "filename": "source/models/Icon-Model-Ministraux.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/Icon-Model-Ministraux.svg",
+    "source_pages": "https://mistral.ai/brand/ | https://mistral.ai/fr/brand/ | https://mistral.ai/fr/models/ | https://mistral.ai/fr/news/mistral-3/ | https://mistral.ai/fr/pricing/ | https://mistral.ai/it/brand/ | https://mistral.ai/it/models/ | https://mistral.ai/it/news/mistral-3/ | https://mistral.ai/it/pricing/ | https://mistral.ai/models/ | https://mistral.ai/news/mistral-3/ | https://mistral.ai/pricing/",
+    "sha256": "908a596ae83e228db807115cb50fab16c7e704e03daa5228f5f58090f2a0fcfb",
+    "bytes": 5486
+  },
+  {
+    "category": "model-sprites",
+    "filename": "source/models/Icon-Model-Moderation.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/Icon-Model-Moderation.svg",
+    "source_pages": "https://mistral.ai/brand/ | https://mistral.ai/fr/brand/ | https://mistral.ai/fr/models/ | https://mistral.ai/fr/pricing/ | https://mistral.ai/it/brand/ | https://mistral.ai/it/models/ | https://mistral.ai/it/pricing/ | https://mistral.ai/models/ | https://mistral.ai/pricing/",
+    "sha256": "f89b6a0531b9265ffa977a4a3578123fecd581bce4af1e7d7365dc64a235d832",
+    "bytes": 1789
+  },
+  {
+    "category": "model-sprites",
+    "filename": "source/models/Icon-Model-OCR.svg",
+    "source_url": "Mistral brand page display asset: model-icons/ocr.svg",
+    "source_pages": "https://mistral.ai/brand/",
+    "sha256": "f10324dafcf0ab943d1eb0fcbfc9fc6a651a78662db1c4595d53292d2b1d9b05",
+    "bytes": 1751
+  },
+  {
+    "category": "model-sprites",
+    "filename": "source/models/Icon-Model-Pixtral-1.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/Icon-Model-Pixtral-1.svg",
+    "source_pages": "https://mistral.ai/brand/ | https://mistral.ai/fr/brand/ | https://mistral.ai/it/brand/",
+    "sha256": "af764cec239b8fe33a14f0bcc3401cb6b30f7007e80f12fdd1758f963cf0e440",
+    "bytes": 1511
+  },
+  {
+    "category": "model-sprites",
+    "filename": "source/models/Icon-Model-Small.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/Icon-Model-Small.svg",
+    "source_pages": "https://mistral.ai/brand/ | https://mistral.ai/fr/brand/ | https://mistral.ai/fr/models/ | https://mistral.ai/fr/news/mistral-small-4/ | https://mistral.ai/fr/pricing/ | https://mistral.ai/it/brand/ | https://mistral.ai/it/models/ | https://mistral.ai/it/news/mistral-small-4/ | https://mistral.ai/it/pricing/ | https://mistral.ai/models/ | https://mistral.ai/news/mistral-small-4/ | https://mistral.ai/pricing/",
+    "sha256": "78b9493bad8d43470522c0e69b7d0ddbf7763f4f78fd5636f2da78e8e0ae1cf1",
+    "bytes": 3990
+  },
+  {
+    "category": "model-sprites",
+    "filename": "source/models/Icon-Model-Voxtral.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/Icon-Model-Voxtral.svg",
+    "source_pages": "https://mistral.ai/brand/ | https://mistral.ai/fr/brand/ | https://mistral.ai/fr/models/ | https://mistral.ai/fr/news/voxtral-transcribe-2/ | https://mistral.ai/fr/news/voxtral-tts/ | https://mistral.ai/fr/pricing/ | https://mistral.ai/it/brand/ | https://mistral.ai/it/models/ | https://mistral.ai/it/news/voxtral-transcribe-2/ | https://mistral.ai/it/news/voxtral-tts/ | https://mistral.ai/it/pricing/ | https://mistral.ai/models/ | https://mistral.ai/news/voxtral-transcribe-2/ | https://mistral.ai/news/voxtral-tts/ | https://mistral.ai/pricing/",
+    "sha256": "5b219f3259667201aa62ee10ab8ccb82d05c89ad2390e166f9985410a100808f",
+    "bytes": 8345
+  },
+  {
+    "category": "ui-sprites",
+    "filename": "source/ui/bag.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/bag.svg",
+    "source_pages": "https://mistral.ai/ | https://mistral.ai/about/ | https://mistral.ai/fr/ | https://mistral.ai/fr/about/ | https://mistral.ai/fr/industry/finance/ | https://mistral.ai/fr/pricing/ | https://mistral.ai/fr/solutions/ | https://mistral.ai/industry/finance/ | https://mistral.ai/it/ | https://mistral.ai/it/about/ | https://mistral.ai/it/industry/finance/ | https://mistral.ai/it/pricing/ | https://mistral.ai/it/solutions/ | https://mistral.ai/preview/ | https://mistral.ai/pricing/ | https://mistral.ai/solutions/",
+    "sha256": "ac0d5ec410d13a10ed2608d18dab52125124f8f03f04a2cd06d13c495b1fe2da",
+    "bytes": 2064
+  },
+  {
+    "category": "ui-sprites",
+    "filename": "source/ui/cubes.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/cubes.svg",
+    "source_pages": "https://mistral.ai/ | https://mistral.ai/fr/ | https://mistral.ai/fr/industry/finance/ | https://mistral.ai/fr/industry/manufacturing/ | https://mistral.ai/fr/industry/public-sector/ | https://mistral.ai/industry/finance/ | https://mistral.ai/industry/manufacturing/ | https://mistral.ai/industry/public-sector/ | https://mistral.ai/it/ | https://mistral.ai/it/industry/finance/ | https://mistral.ai/it/industry/manufacturing/ | https://mistral.ai/it/industry/public-sector/ | https://mistral.ai/preview/",
+    "sha256": "d98cdc3553fb8d7a4757898e3fdafbdf8ee0ec756e80ca35f7d931208665fc1f",
+    "bytes": 5252
+  },
+  {
+    "category": "ui-sprites",
+    "filename": "source/ui/earth.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/earth.svg",
+    "source_pages": "https://mistral.ai/ | https://mistral.ai/about/ | https://mistral.ai/fr/ | https://mistral.ai/fr/about/ | https://mistral.ai/fr/industry/finance/ | https://mistral.ai/fr/industry/manufacturing/ | https://mistral.ai/fr/industry/public-sector/ | https://mistral.ai/fr/pricing/ | https://mistral.ai/fr/products/vibe/code/ | https://mistral.ai/fr/solutions/ | https://mistral.ai/fr/solutions/custom-model-training/ | https://mistral.ai/fr/solutions/document-ai/ | https://mistral.ai/industry/finance/ | https://mistral.ai/industry/manufacturing/ | https://mistral.ai/industry/public-sector/ | https://mistral.ai/it/ | https://mistral.ai/it/about/ | https://mistral.ai/it/industry/finance/ | https://mistral.ai/it/industry/manufacturing/ | https://mistral.ai/it/industry/public-sector/ | https://mistral.ai/it/pricing/ | https://mistral.ai/it/products/vibe/code/ | https://mistral.ai/it/solutions/ | https://mistral.ai/it/solutions/custom-model-training/ | https://mistral.ai/it/solutions/document-ai/ | https://mistral.ai/preview/ | https://mistral.ai/pricing/ | https://mistral.ai/products/vibe/code/ | https://mistral.ai/solutions/ | https://mistral.ai/solutions/custom-model-training/ | https://mistral.ai/solutions/document-ai/",
+    "sha256": "065ae94378aa643c3b65499c2678d5ba21402aec600e76faca3bb3d88192043e",
+    "bytes": 4179
+  },
+  {
+    "category": "ui-sprites",
+    "filename": "source/ui/icon-blue-puzzle-cube.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/icon-blue-puzzle-cube.svg",
+    "source_pages": "https://mistral.ai/fr/models/ | https://mistral.ai/fr/solutions/custom-model-training/ | https://mistral.ai/it/models/ | https://mistral.ai/it/solutions/custom-model-training/ | https://mistral.ai/models/ | https://mistral.ai/solutions/custom-model-training/",
+    "sha256": "2d319993ce4868614fadb33215ddec8f144b74d0a828b66821b5ebca2137f7b2",
+    "bytes": 8878
+  },
+  {
+    "category": "ui-sprites",
+    "filename": "source/ui/icon-building.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/icon-building.svg",
+    "source_pages": "https://mistral.ai/fr/products/vibe/ | https://mistral.ai/it/products/vibe/ | https://mistral.ai/products/vibe/",
+    "sha256": "43ccff09871688f30c2c99bed057a9b7b26b59ead40b91ea42b6434d5ef07510",
+    "bytes": 2999
+  },
+  {
+    "category": "ui-sprites",
+    "filename": "source/ui/icon-bullhorn.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/icon-bullhorn.svg",
+    "source_pages": "https://mistral.ai/fr/solutions/speech/ | https://mistral.ai/it/solutions/speech/ | https://mistral.ai/solutions/speech/",
+    "sha256": "4ba4d764ebf58bbda70b8d72a91b0c43bb012c974163649cab5b3830a1389480",
+    "bytes": 2689
+  },
+  {
+    "category": "ui-sprites",
+    "filename": "source/ui/icon-capitol-building.webp",
+    "source_url": "https://mistral.ai/_astro/icon-capitol-building_2lULTh.webp?dpl=6a3ad1d1ddeeff3ec7c9cb8e",
+    "source_pages": "https://mistral.ai/fr/industry/public-sector/ | https://mistral.ai/fr/solutions/custom-model-training/ | https://mistral.ai/fr/solutions/speech/ | https://mistral.ai/industry/public-sector/ | https://mistral.ai/it/industry/public-sector/ | https://mistral.ai/it/solutions/custom-model-training/ | https://mistral.ai/it/solutions/speech/ | https://mistral.ai/solutions/custom-model-training/ | https://mistral.ai/solutions/speech/",
+    "sha256": "d5cb0427853c9037e34552aab4d274b1b95b74734fc887822346cf3cce7bb714",
+    "bytes": 2974
+  },
+  {
+    "category": "ui-sprites",
+    "filename": "source/ui/icon-car.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/icon-car.svg",
+    "source_pages": "https://mistral.ai/fr/solutions/speech/ | https://mistral.ai/it/solutions/speech/ | https://mistral.ai/solutions/speech/",
+    "sha256": "1dc5161eba7c17bd688e3a3df3ff0afb4feb0e088cae348fe02c8b434b520b08",
+    "bytes": 4255
+  },
+  {
+    "category": "ui-sprites",
+    "filename": "source/ui/icon-crown.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/icon-crown.svg",
+    "source_pages": "https://mistral.ai/fr/industry/manufacturing/ | https://mistral.ai/fr/solutions/coding/ | https://mistral.ai/fr/solutions/custom-model-training/ | https://mistral.ai/industry/manufacturing/ | https://mistral.ai/it/industry/manufacturing/ | https://mistral.ai/it/solutions/coding/ | https://mistral.ai/it/solutions/custom-model-training/ | https://mistral.ai/solutions/coding/ | https://mistral.ai/solutions/custom-model-training/",
+    "sha256": "aea9375cc23c821c9736fb3e23a21c8efcd6d97e0a9678072c6a42c26b192280",
+    "bytes": 13522
+  },
+  {
+    "category": "ui-sprites",
+    "filename": "source/ui/icon-education.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/icon-education.svg",
+    "source_pages": "https://mistral.ai/fr/pricing/ | https://mistral.ai/it/pricing/ | https://mistral.ai/pricing/",
+    "sha256": "3ad00aad92dd1a4aef26fde114948fb2ef342f37257ed643348ce4c4d5e89088",
+    "bytes": 5388
+  },
+  {
+    "category": "ui-sprites",
+    "filename": "source/ui/icon-flower-pot.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/icon-flower-pot.svg",
+    "source_pages": "https://mistral.ai/fr/solutions/custom-model-training/ | https://mistral.ai/it/solutions/custom-model-training/ | https://mistral.ai/solutions/custom-model-training/",
+    "sha256": "ab679e74d9429ae565642b78a3e5bcdccea785d54b9731d88b6d205f290c636d",
+    "bytes": 3099
+  },
+  {
+    "category": "ui-sprites",
+    "filename": "source/ui/icon-gear.webp",
+    "source_url": "https://mistral.ai/_astro/icon-gear_231oIE.webp?dpl=6a3ad1d1ddeeff3ec7c9cb8e",
+    "source_pages": "https://mistral.ai/ | https://mistral.ai/fr/ | https://mistral.ai/fr/industry/manufacturing/ | https://mistral.ai/fr/products/forge/ | https://mistral.ai/fr/solutions/custom-model-training/ | https://mistral.ai/industry/manufacturing/ | https://mistral.ai/it/ | https://mistral.ai/it/industry/manufacturing/ | https://mistral.ai/it/products/forge/ | https://mistral.ai/it/solutions/custom-model-training/ | https://mistral.ai/preview/ | https://mistral.ai/products/forge/ | https://mistral.ai/solutions/custom-model-training/",
+    "sha256": "a8d774cbd86be93e62f5db1aa8b91851828a3c469f1c06d6a35631eebfce341d",
+    "bytes": 3786
+  },
+  {
+    "category": "ui-sprites",
+    "filename": "source/ui/icon-hammer.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/icon-hammer.svg",
+    "source_pages": "https://mistral.ai/fr/products/compute/ | https://mistral.ai/it/products/compute/ | https://mistral.ai/products/compute/",
+    "sha256": "c777c0be61c5ad23f0497c9ac656763f222787cc08bc5b44b2dad7cfb9c42607",
+    "bytes": 7240
+  },
+  {
+    "category": "ui-sprites",
+    "filename": "source/ui/icon-headset.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/icon-headset.svg",
+    "source_pages": "https://mistral.ai/contact/ | https://mistral.ai/fr/contact/ | https://mistral.ai/fr/products/compute/ | https://mistral.ai/fr/solutions/speech/ | https://mistral.ai/it/contact/ | https://mistral.ai/it/products/compute/ | https://mistral.ai/it/solutions/speech/ | https://mistral.ai/products/compute/ | https://mistral.ai/solutions/speech/",
+    "sha256": "e8593f26d43a38dcdaaaebb836bf8667a617adde1fa7b4dcae376f586769a87a",
+    "bytes": 3141
+  },
+  {
+    "category": "ui-sprites",
+    "filename": "source/ui/icon-house.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/icon-house.svg",
+    "source_pages": "https://mistral.ai/fr/products/vibe/ | https://mistral.ai/it/products/vibe/ | https://mistral.ai/products/vibe/",
+    "sha256": "4321fdcb19a0c2ea95b06e86eafe28de17487bd43a54e1fc461e3dcb90192b75",
+    "bytes": 15119
+  },
+  {
+    "category": "ui-sprites",
+    "filename": "source/ui/icon-key.webp",
+    "source_url": "https://mistral.ai/_astro/icon-key_Z1U8cmF.webp?dpl=6a3ad1d1ddeeff3ec7c9cb8e",
+    "source_pages": "https://mistral.ai/about/ | https://mistral.ai/fr/about/ | https://mistral.ai/fr/industry/public-sector/ | https://mistral.ai/fr/solutions/custom-model-training/ | https://mistral.ai/industry/public-sector/ | https://mistral.ai/it/about/ | https://mistral.ai/it/industry/public-sector/ | https://mistral.ai/it/solutions/custom-model-training/ | https://mistral.ai/solutions/custom-model-training/",
+    "sha256": "e4bdf7a1ee52fa0a0ef834e3f23c001cc693dba691aef248a145887e369d050f",
+    "bytes": 2792
+  },
+  {
+    "category": "ui-sprites",
+    "filename": "source/ui/icon-lab-beaker.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/icon-lab-beaker.svg",
+    "source_pages": "https://mistral.ai/fr/products/compute/ | https://mistral.ai/fr/solutions/custom-model-training/ | https://mistral.ai/fr/solutions/document-ai/ | https://mistral.ai/it/products/compute/ | https://mistral.ai/it/solutions/custom-model-training/ | https://mistral.ai/it/solutions/document-ai/ | https://mistral.ai/products/compute/ | https://mistral.ai/solutions/custom-model-training/ | https://mistral.ai/solutions/document-ai/",
+    "sha256": "9f208aa6e488c0cc5d2df9ca3420040a7a24fabb98a9020ebebc88488d12f473",
+    "bytes": 2742
+  },
+  {
+    "category": "ui-sprites",
+    "filename": "source/ui/icon-layers-stack.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/icon-layers-stack.svg",
+    "source_pages": "https://mistral.ai/fr/services/ | https://mistral.ai/fr/solutions/custom-model-training/ | https://mistral.ai/it/services/ | https://mistral.ai/it/solutions/custom-model-training/ | https://mistral.ai/services/ | https://mistral.ai/solutions/custom-model-training/",
+    "sha256": "5553e87afb4ef439ee3ca4dae671c46ebec3486b8869c4d3ee7687627752fe3b",
+    "bytes": 10833
+  },
+  {
+    "category": "ui-sprites",
+    "filename": "source/ui/icon-lock.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/icon-lock.svg",
+    "source_pages": "https://mistral.ai/careers/ | https://mistral.ai/contact/ | https://mistral.ai/fr/careers/ | https://mistral.ai/fr/contact/ | https://mistral.ai/fr/industry/manufacturing/ | https://mistral.ai/fr/solutions/coding/ | https://mistral.ai/industry/manufacturing/ | https://mistral.ai/it/careers/ | https://mistral.ai/it/contact/ | https://mistral.ai/it/industry/manufacturing/ | https://mistral.ai/it/solutions/coding/ | https://mistral.ai/solutions/coding/",
+    "sha256": "2b99cd3b9775db8ad3fa5e68c43e9fc8e5bf8101b123b8c508c06c41a408d346",
+    "bytes": 2097
+  },
+  {
+    "category": "ui-sprites",
+    "filename": "source/ui/icon-m-book-red.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/icon-m-book-red.svg",
+    "source_pages": "https://mistral.ai/fr/pricing/ | https://mistral.ai/fr/products/vibe/code/ | https://mistral.ai/it/pricing/ | https://mistral.ai/it/products/vibe/code/ | https://mistral.ai/pricing/ | https://mistral.ai/products/vibe/code/",
+    "sha256": "a0f3ff51a4d8373991a59bd0dc98870303cd41f7877340200b08edb9ef5fa00c",
+    "bytes": 2138
+  },
+  {
+    "category": "ui-sprites",
+    "filename": "source/ui/icon-m-cloud.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/icon-m-cloud.svg",
+    "source_pages": "https://mistral.ai/fr/services/ | https://mistral.ai/it/services/ | https://mistral.ai/services/",
+    "sha256": "881b0a22f25472263fb7e45256b27e96f9d5aaadfe87b449a6ae91105f7e1fed",
+    "bytes": 20700
+  },
+  {
+    "category": "ui-sprites",
+    "filename": "source/ui/icon-m-coin.webp",
+    "source_url": "https://mistral.ai/_astro/icon-m-coin_1B9A9Y.webp?dpl=6a3ad1d1ddeeff3ec7c9cb8e",
+    "source_pages": "https://mistral.ai/fr/services/ | https://mistral.ai/it/services/ | https://mistral.ai/services/",
+    "sha256": "a38703ba68e9484be8207cb3e1e3de5401486504ed1c6c8e06ff45f8520c4cbd",
+    "bytes": 2502
+  },
+  {
+    "category": "ui-sprites",
+    "filename": "source/ui/icon-m-fire.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/icon-m-fire.svg",
+    "source_pages": "https://mistral.ai/fr/services/ | https://mistral.ai/it/services/ | https://mistral.ai/services/",
+    "sha256": "3bef51f8ccdea33d086d8de89ce26e3dd426cc36bf42284fa7a7342e3f696f8a",
+    "bytes": 4115
+  },
+  {
+    "category": "ui-sprites",
+    "filename": "source/ui/icon-m-flower.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/icon-m-flower.svg",
+    "source_pages": "https://mistral.ai/ | https://mistral.ai/about/ | https://mistral.ai/brand/ | https://mistral.ai/careers/ | https://mistral.ai/contact/ | https://mistral.ai/customers/ | https://mistral.ai/customers/airbus/ | https://mistral.ai/customers/ardian/ | https://mistral.ai/customers/asml/ | https://mistral.ai/customers/austrian-academy-of-sciences/ | https://mistral.ai/customers/axa/ | https://mistral.ai/customers/belfius/ | https://mistral.ai/customers/bigdatacorp/ | https://mistral.ai/customers/bmw/ | https://mistral.ai/customers/bnp-paribas-quote-as-feature/ | https://mistral.ai/customers/bnp-paribas/ | https://mistral.ai/customers/brave/ | https://mistral.ai/customers/capgemini/ | https://mistral.ai/customers/cisco/ | https://mistral.ai/customers/cloudflare/ | https://mistral.ai/customers/cma-cgm/ | https://mistral.ai/customers/dso/ | https://mistral.ai/customers/epo/ | https://mistral.ai/customers/ericsson/ | https://mistral.ai/customers/fastweb/ | https://mistral.ai/customers/france-travail/ | https://mistral.ai/customers/french-ministry-of-defense/ | https://mistral.ai/customers/french-ministry-of-digital-transition/ | https://mistral.ai/customers/front/ | https://mistral.ai/customers/gojob/ | https://mistral.ai/customers/government-of-luxembourg/ | https://mistral.ai/customers/harvey/ | https://mistral.ai/customers/helsing/ | https://mistral.ai/customers/hsbc/ | https://mistral.ai/customers/htx/ | https://mistral.ai/customers/hugging-face/ | https://mistral.ai/customers/ibm/ | https://mistral.ai/customers/knowunity/ | https://mistral.ai/customers/lamini/ | https://mistral.ai/customers/lindy/ | https://mistral.ai/customers/mars/ | https://mistral.ai/customers/ministry-of-high-tech-industry-of-armenia/ | https://mistral.ai/customers/mirakl/ | https://mistral.ai/customers/mongodb/ | https://mistral.ai/customers/octoai/ | https://mistral.ai/customers/orange/ | https://mistral.ai/customers/pierre-fabre/ | https://mistral.ai/customers/pretto/ | https://mistral.ai/customers/qonto/ | https://mistral.ai/customers/quora/ | https://mistral.ai/customers/sap/ | https://mistral.ai/customers/singapores-ministry-of-defence-mindef/ | https://mistral.ai/customers/sncf/ | https://mistral.ai/customers/snowflake/ | https://mistral.ai/customers/stellantis/ | https://mistral.ai/customers/superinsight/ | https://mistral.ai/customers/synapse-medicine/ | https://mistral.ai/customers/totalenergies/ | https://mistral.ai/customers/university-of-groningen/ | https://mistral.ai/customers/veolia/ | https://mistral.ai/customers/zalando/ | https://mistral.ai/debug/ | https://mistral.ai/error/ | https://mistral.ai/fr/ | https://mistral.ai/fr/about/ | https://mistral.ai/fr/brand/ | https://mistral.ai/fr/careers/ | https://mistral.ai/fr/contact/ | https://mistral.ai/fr/customers/ | https://mistral.ai/fr/customers/airbus/ | https://mistral.ai/fr/customers/ardian/ | https://mistral.ai/fr/customers/asml/ | https://mistral.ai/fr/customers/austrian-academy-of-sciences/ | https://mistral.ai/fr/customers/axa/ | https://mistral.ai/fr/customers/belfius/ | https://mistral.ai/fr/customers/bigdatacorp/ | https://mistral.ai/fr/customers/bmw/ | https://mistral.ai/fr/customers/bnp-paribas-quote-as-feature/ | https://mistral.ai/fr/customers/bnp-paribas/ | https://mistral.ai/fr/customers/brave/ | https://mistral.ai/fr/customers/capgemini/ | https://mistral.ai/fr/customers/cisco/ | https://mistral.ai/fr/customers/cloudflare/ | https://mistral.ai/fr/customers/cma-cgm/ | https://mistral.ai/fr/customers/dso/ | https://mistral.ai/fr/customers/epo/ | https://mistral.ai/fr/customers/ericsson/ | https://mistral.ai/fr/customers/fastweb/ | https://mistral.ai/fr/customers/france-travail/ | https://mistral.ai/fr/customers/french-ministry-of-defense/ | https://mistral.ai/fr/customers/french-ministry-of-digital-transition/ | https://mistral.ai/fr/customers/front/ | https://mistral.ai/fr/customers/gojob/ | https://mistral.ai/fr/customers/government-of-luxembourg/ | https://mistral.ai/fr/customers/harvey/ | https://mistral.ai/fr/customers/helsing/ | https://mistral.ai/fr/customers/hsbc/ | https://mistral.ai/fr/customers/htx/ | https://mistral.ai/fr/customers/hugging-face/ | https://mistral.ai/fr/customers/ibm/ | https://mistral.ai/fr/customers/knowunity/ | https://mistral.ai/fr/customers/lamini/ | https://mistral.ai/fr/customers/lindy/ | https://mistral.ai/fr/customers/mars/ | https://mistral.ai/fr/customers/ministry-of-high-tech-industry-of-armenia/ | https://mistral.ai/fr/customers/mirakl/ | https://mistral.ai/fr/customers/mongodb/ | https://mistral.ai/fr/customers/octoai/ | https://mistral.ai/fr/customers/orange/ | https://mistral.ai/fr/customers/pierre-fabre/ | https://mistral.ai/fr/customers/pretto/ | https://mistral.ai/fr/customers/qonto/ | https://mistral.ai/fr/customers/quora/ | https://mistral.ai/fr/customers/sap/ | https://mistral.ai/fr/customers/singapores-ministry-of-defence-mindef/ | https://mistral.ai/fr/customers/sncf/ | https://mistral.ai/fr/customers/snowflake/ | https://mistral.ai/fr/customers/stellantis/ | https://mistral.ai/fr/customers/superinsight/ | https://mistral.ai/fr/customers/synapse-medicine/ | https://mistral.ai/fr/customers/totalenergies/ | https://mistral.ai/fr/customers/university-of-groningen/ | https://mistral.ai/fr/customers/veolia/ | https://mistral.ai/fr/customers/zalando/ | https://mistral.ai/fr/error/ | https://mistral.ai/fr/industry/ | https://mistral.ai/fr/industry/finance/ | https://mistral.ai/fr/industry/manufacturing/ | https://mistral.ai/fr/industry/public-sector/ | https://mistral.ai/fr/legal/ | https://mistral.ai/fr/legal/child-abuse/ | https://mistral.ai/fr/license-mistral-ai-models-for-nvidia-inference-microservices/ | https://mistral.ai/fr/models/ | https://mistral.ai/fr/news/ | https://mistral.ai/fr/news/2024-ft-hackathon/ | https://mistral.ai/fr/news/about-mistral-ai/ | https://mistral.ai/fr/news/accelerate-ai-native-industry/ | https://mistral.ai/fr/news/agentic-workflows-from-meetings-to-dev-tickets/ | https://mistral.ai/fr/news/agents-api/ | https://mistral.ai/fr/news/ai-for-citizens/ | https://mistral.ai/fr/news/ai-now-summit-2026/ | https://mistral.ai/fr/news/ai-studio/ | https://mistral.ai/fr/news/all-new-le-chat/ | https://mistral.ai/fr/news/announcing-mistral-7b/ | https://mistral.ai/fr/news/batch-api/ | https://mistral.ai/fr/news/build-tweak-repeat/ | https://mistral.ai/fr/news/codestral-25-08/ | https://mistral.ai/fr/news/codestral-2501/ | https://mistral.ai/fr/news/codestral-embed/ | https://mistral.ai/fr/news/codestral-mamba/ | https://mistral.ai/fr/news/codestral/ | https://mistral.ai/fr/news/connectors/ | https://mistral.ai/fr/news/customization/ | https://mistral.ai/fr/news/debugging-memory-leak-in-vllm/ | https://mistral.ai/fr/news/devstral-2-vibe-cli/ | https://mistral.ai/fr/news/devstral-2507/ | https://mistral.ai/fr/news/devstral/ | https://mistral.ai/fr/news/forge/ | https://mistral.ai/fr/news/introducing-physics-ai-at-mistral/ | https://mistral.ai/fr/news/ki-fur-deutschland/ | https://mistral.ai/fr/news/la-plateforme/ | https://mistral.ai/fr/news/le-chat-dives-deep/ | https://mistral.ai/fr/news/le-chat-enterprise/ | https://mistral.ai/fr/news/le-chat-mcp-connectors-memories/ | https://mistral.ai/fr/news/le-chat-mistral/ | https://mistral.ai/fr/news/leanstral/ | https://mistral.ai/fr/news/llm-as-rag-judge/ | https://mistral.ai/fr/news/magistral/ | https://mistral.ai/fr/news/mathstral/ | https://mistral.ai/fr/news/memory/ | https://mistral.ai/fr/news/ministraux/ | https://mistral.ai/fr/news/mistral-3/ | https://mistral.ai/fr/news/mistral-afp/ | https://mistral.ai/fr/news/mistral-ai-and-nvidia-partner-to-accelerate-open-frontier-models/ | https://mistral.ai/fr/news/mistral-ai-non-production-license-mnpl/ | https://mistral.ai/fr/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai/ | https://mistral.ai/fr/news/mistral-chat/ | https://mistral.ai/fr/news/mistral-code/ | https://mistral.ai/fr/news/mistral-compute/ | https://mistral.ai/fr/news/mistral-large-2407/ | https://mistral.ai/fr/news/mistral-large/ | https://mistral.ai/fr/news/mistral-medium-3/ | https://mistral.ai/fr/news/mistral-moderation/ | https://mistral.ai/fr/news/mistral-nemo/ | https://mistral.ai/fr/news/mistral-ocr-3/ | https://mistral.ai/fr/news/mistral-ocr/ | https://mistral.ai/fr/news/mistral-saba/ | https://mistral.ai/fr/news/mistral-small-3-1/ | https://mistral.ai/fr/news/mistral-small-3/ | https://mistral.ai/fr/news/mistral-small-4/ | https://mistral.ai/fr/news/mistral-vibe-2-0/ | https://mistral.ai/fr/news/mixtral-8x22b/ | https://mistral.ai/fr/news/mixtral-of-experts/ | https://mistral.ai/fr/news/ocr-4/ | https://mistral.ai/fr/news/our-contribution-to-a-global-environmental-standard-for-ai/ | https://mistral.ai/fr/news/physics-ai-research/ | https://mistral.ai/fr/news/pixtral-12b/ | https://mistral.ai/fr/news/pixtral-large/ | https://mistral.ai/fr/news/rails-testing-on-autopilot-building-an-agent-that-writes-what-developers-wont/ | https://mistral.ai/fr/news/search-toolkit/ | https://mistral.ai/fr/news/september-24-release/ | https://mistral.ai/fr/news/unlocking-potential-vision-language-models-satellite-imagery-fine-tuning/ | https://mistral.ai/fr/news/vibe-agent/ | https://mistral.ai/fr/news/vibe-remote-agents-mistral-medium-3-5/ | https://mistral.ai/fr/news/voxtral-transcribe-2/ | https://mistral.ai/fr/news/voxtral-tts/ | https://mistral.ai/fr/news/voxtral/ | https://mistral.ai/fr/news/workflows/ | https://mistral.ai/fr/partners/ | https://mistral.ai/fr/pricing/ | https://mistral.ai/fr/products/ | https://mistral.ai/fr/products/compute/ | https://mistral.ai/fr/products/forge/ | https://mistral.ai/fr/products/studio/ | https://mistral.ai/fr/products/vibe/ | https://mistral.ai/fr/products/vibe/code/ | https://mistral.ai/fr/report/ | https://mistral.ai/fr/services/ | https://mistral.ai/fr/solutions/ | https://mistral.ai/fr/solutions/coding/ | https://mistral.ai/fr/solutions/custom-model-training/ | https://mistral.ai/fr/solutions/document-ai/ | https://mistral.ai/fr/solutions/speech/ | https://mistral.ai/industry/ | https://mistral.ai/industry/finance/ | https://mistral.ai/industry/manufacturing/ | https://mistral.ai/industry/public-sector/ | https://mistral.ai/it/ | https://mistral.ai/it/about/ | https://mistral.ai/it/brand/ | https://mistral.ai/it/careers/ | https://mistral.ai/it/contact/ | https://mistral.ai/it/customers/ | https://mistral.ai/it/customers/airbus/ | https://mistral.ai/it/customers/ardian/ | https://mistral.ai/it/customers/asml/ | https://mistral.ai/it/customers/austrian-academy-of-sciences/ | https://mistral.ai/it/customers/axa/ | https://mistral.ai/it/customers/belfius/ | https://mistral.ai/it/customers/bigdatacorp/ | https://mistral.ai/it/customers/bmw/ | https://mistral.ai/it/customers/bnp-paribas-quote-as-feature/ | https://mistral.ai/it/customers/bnp-paribas/ | https://mistral.ai/it/customers/brave/ | https://mistral.ai/it/customers/capgemini/ | https://mistral.ai/it/customers/cisco/ | https://mistral.ai/it/customers/cloudflare/ | https://mistral.ai/it/customers/cma-cgm/ | https://mistral.ai/it/customers/dso/ | https://mistral.ai/it/customers/epo/ | https://mistral.ai/it/customers/ericsson/ | https://mistral.ai/it/customers/fastweb/ | https://mistral.ai/it/customers/france-travail/ | https://mistral.ai/it/customers/french-ministry-of-defense/ | https://mistral.ai/it/customers/french-ministry-of-digital-transition/ | https://mistral.ai/it/customers/front/ | https://mistral.ai/it/customers/gojob/ | https://mistral.ai/it/customers/government-of-luxembourg/ | https://mistral.ai/it/customers/harvey/ | https://mistral.ai/it/customers/helsing/ | https://mistral.ai/it/customers/hsbc/ | https://mistral.ai/it/customers/htx/ | https://mistral.ai/it/customers/hugging-face/ | https://mistral.ai/it/customers/ibm/ | https://mistral.ai/it/customers/knowunity/ | https://mistral.ai/it/customers/lamini/ | https://mistral.ai/it/customers/lindy/ | https://mistral.ai/it/customers/mars/ | https://mistral.ai/it/customers/ministry-of-high-tech-industry-of-armenia/ | https://mistral.ai/it/customers/mirakl/ | https://mistral.ai/it/customers/mongodb/ | https://mistral.ai/it/customers/octoai/ | https://mistral.ai/it/customers/orange/ | https://mistral.ai/it/customers/pierre-fabre/ | https://mistral.ai/it/customers/pretto/ | https://mistral.ai/it/customers/qonto/ | https://mistral.ai/it/customers/quora/ | https://mistral.ai/it/customers/sap/ | https://mistral.ai/it/customers/singapores-ministry-of-defence-mindef/ | https://mistral.ai/it/customers/sncf/ | https://mistral.ai/it/customers/snowflake/ | https://mistral.ai/it/customers/stellantis/ | https://mistral.ai/it/customers/superinsight/ | https://mistral.ai/it/customers/synapse-medicine/ | https://mistral.ai/it/customers/totalenergies/ | https://mistral.ai/it/customers/university-of-groningen/ | https://mistral.ai/it/customers/veolia/ | https://mistral.ai/it/customers/zalando/ | https://mistral.ai/it/error/ | https://mistral.ai/it/industry/ | https://mistral.ai/it/industry/finance/ | https://mistral.ai/it/industry/manufacturing/ | https://mistral.ai/it/industry/public-sector/ | https://mistral.ai/it/legal/ | https://mistral.ai/it/legal/child-abuse/ | https://mistral.ai/it/license-mistral-ai-models-for-nvidia-inference-microservices/ | https://mistral.ai/it/models/ | https://mistral.ai/it/news/ | https://mistral.ai/it/news/2024-ft-hackathon/ | https://mistral.ai/it/news/about-mistral-ai/ | https://mistral.ai/it/news/accelerate-ai-native-industry/ | https://mistral.ai/it/news/agentic-workflows-from-meetings-to-dev-tickets/ | https://mistral.ai/it/news/agents-api/ | https://mistral.ai/it/news/ai-for-citizens/ | https://mistral.ai/it/news/ai-now-summit-2026/ | https://mistral.ai/it/news/ai-studio/ | https://mistral.ai/it/news/all-new-le-chat/ | https://mistral.ai/it/news/announcing-mistral-7b/ | https://mistral.ai/it/news/batch-api/ | https://mistral.ai/it/news/build-tweak-repeat/ | https://mistral.ai/it/news/codestral-25-08/ | https://mistral.ai/it/news/codestral-2501/ | https://mistral.ai/it/news/codestral-embed/ | https://mistral.ai/it/news/codestral-mamba/ | https://mistral.ai/it/news/codestral/ | https://mistral.ai/it/news/connectors/ | https://mistral.ai/it/news/customization/ | https://mistral.ai/it/news/debugging-memory-leak-in-vllm/ | https://mistral.ai/it/news/devstral-2-vibe-cli/ | https://mistral.ai/it/news/devstral-2507/ | https://mistral.ai/it/news/devstral/ | https://mistral.ai/it/news/forge/ | https://mistral.ai/it/news/introducing-physics-ai-at-mistral/ | https://mistral.ai/it/news/ki-fur-deutschland/ | https://mistral.ai/it/news/la-plateforme/ | https://mistral.ai/it/news/le-chat-dives-deep/ | https://mistral.ai/it/news/le-chat-enterprise/ | https://mistral.ai/it/news/le-chat-mcp-connectors-memories/ | https://mistral.ai/it/news/le-chat-mistral/ | https://mistral.ai/it/news/leanstral/ | https://mistral.ai/it/news/llm-as-rag-judge/ | https://mistral.ai/it/news/magistral/ | https://mistral.ai/it/news/mathstral/ | https://mistral.ai/it/news/memory/ | https://mistral.ai/it/news/ministraux/ | https://mistral.ai/it/news/mistral-3/ | https://mistral.ai/it/news/mistral-afp/ | https://mistral.ai/it/news/mistral-ai-and-nvidia-partner-to-accelerate-open-frontier-models/ | https://mistral.ai/it/news/mistral-ai-non-production-license-mnpl/ | https://mistral.ai/it/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai/ | https://mistral.ai/it/news/mistral-chat/ | https://mistral.ai/it/news/mistral-code/ | https://mistral.ai/it/news/mistral-compute/ | https://mistral.ai/it/news/mistral-large-2407/ | https://mistral.ai/it/news/mistral-large/ | https://mistral.ai/it/news/mistral-medium-3/ | https://mistral.ai/it/news/mistral-moderation/ | https://mistral.ai/it/news/mistral-nemo/ | https://mistral.ai/it/news/mistral-ocr-3/ | https://mistral.ai/it/news/mistral-ocr/ | https://mistral.ai/it/news/mistral-saba/ | https://mistral.ai/it/news/mistral-small-3-1/ | https://mistral.ai/it/news/mistral-small-3/ | https://mistral.ai/it/news/mistral-small-4/ | https://mistral.ai/it/news/mistral-vibe-2-0/ | https://mistral.ai/it/news/mixtral-8x22b/ | https://mistral.ai/it/news/mixtral-of-experts/ | https://mistral.ai/it/news/ocr-4/ | https://mistral.ai/it/news/our-contribution-to-a-global-environmental-standard-for-ai/ | https://mistral.ai/it/news/physics-ai-research/ | https://mistral.ai/it/news/pixtral-12b/ | https://mistral.ai/it/news/pixtral-large/ | https://mistral.ai/it/news/rails-testing-on-autopilot-building-an-agent-that-writes-what-developers-wont/ | https://mistral.ai/it/news/search-toolkit/ | https://mistral.ai/it/news/september-24-release/ | https://mistral.ai/it/news/unlocking-potential-vision-language-models-satellite-imagery-fine-tuning/ | https://mistral.ai/it/news/vibe-agent/ | https://mistral.ai/it/news/vibe-remote-agents-mistral-medium-3-5/ | https://mistral.ai/it/news/voxtral-transcribe-2/ | https://mistral.ai/it/news/voxtral-tts/ | https://mistral.ai/it/news/voxtral/ | https://mistral.ai/it/news/workflows/ | https://mistral.ai/it/partners/ | https://mistral.ai/it/pricing/ | https://mistral.ai/it/products/ | https://mistral.ai/it/products/compute/ | https://mistral.ai/it/products/forge/ | https://mistral.ai/it/products/studio/ | https://mistral.ai/it/products/vibe/ | https://mistral.ai/it/products/vibe/code/ | https://mistral.ai/it/report/ | https://mistral.ai/it/services/ | https://mistral.ai/it/solutions/ | https://mistral.ai/it/solutions/coding/ | https://mistral.ai/it/solutions/custom-model-training/ | https://mistral.ai/it/solutions/document-ai/ | https://mistral.ai/it/solutions/speech/ | https://mistral.ai/legal/ | https://mistral.ai/legal/child-abuse/ | https://mistral.ai/license-mistral-ai-models-for-nvidia-inference-microservices/ | https://mistral.ai/models/ | https://mistral.ai/news/ | https://mistral.ai/news/2024-ft-hackathon/ | https://mistral.ai/news/about-mistral-ai/ | https://mistral.ai/news/accelerate-ai-native-industry/ | https://mistral.ai/news/agentic-workflows-from-meetings-to-dev-tickets/ | https://mistral.ai/news/agents-api/ | https://mistral.ai/news/ai-for-citizens/ | https://mistral.ai/news/ai-now-summit-2026/ | https://mistral.ai/news/ai-studio/ | https://mistral.ai/news/all-new-le-chat/ | https://mistral.ai/news/announcing-mistral-7b/ | https://mistral.ai/news/batch-api/ | https://mistral.ai/news/build-tweak-repeat/ | https://mistral.ai/news/codestral-25-08/ | https://mistral.ai/news/codestral-2501/ | https://mistral.ai/news/codestral-embed/ | https://mistral.ai/news/codestral-mamba/ | https://mistral.ai/news/codestral/ | https://mistral.ai/news/connectors/ | https://mistral.ai/news/customization/ | https://mistral.ai/news/debugging-memory-leak-in-vllm/ | https://mistral.ai/news/devstral-2-vibe-cli/ | https://mistral.ai/news/devstral-2507/ | https://mistral.ai/news/devstral/ | https://mistral.ai/news/forge/ | https://mistral.ai/news/introducing-physics-ai-at-mistral/ | https://mistral.ai/news/ki-fur-deutschland/ | https://mistral.ai/news/la-plateforme/ | https://mistral.ai/news/le-chat-dives-deep/ | https://mistral.ai/news/le-chat-enterprise/ | https://mistral.ai/news/le-chat-mcp-connectors-memories/ | https://mistral.ai/news/le-chat-mistral/ | https://mistral.ai/news/leanstral/ | https://mistral.ai/news/llm-as-rag-judge/ | https://mistral.ai/news/magistral/ | https://mistral.ai/news/mathstral/ | https://mistral.ai/news/memory/ | https://mistral.ai/news/ministraux/ | https://mistral.ai/news/mistral-3/ | https://mistral.ai/news/mistral-afp/ | https://mistral.ai/news/mistral-ai-and-nvidia-partner-to-accelerate-open-frontier-models/ | https://mistral.ai/news/mistral-ai-non-production-license-mnpl/ | https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai/ | https://mistral.ai/news/mistral-chat/ | https://mistral.ai/news/mistral-code/ | https://mistral.ai/news/mistral-compute/ | https://mistral.ai/news/mistral-large-2407/ | https://mistral.ai/news/mistral-large/ | https://mistral.ai/news/mistral-medium-3/ | https://mistral.ai/news/mistral-moderation/ | https://mistral.ai/news/mistral-nemo/ | https://mistral.ai/news/mistral-ocr-3/ | https://mistral.ai/news/mistral-ocr/ | https://mistral.ai/news/mistral-saba/ | https://mistral.ai/news/mistral-small-3-1/ | https://mistral.ai/news/mistral-small-3/ | https://mistral.ai/news/mistral-small-4/ | https://mistral.ai/news/mistral-vibe-2-0/ | https://mistral.ai/news/mixtral-8x22b/ | https://mistral.ai/news/mixtral-of-experts/ | https://mistral.ai/news/ocr-4/ | https://mistral.ai/news/our-contribution-to-a-global-environmental-standard-for-ai/ | https://mistral.ai/news/physics-ai-research/ | https://mistral.ai/news/pixtral-12b/ | https://mistral.ai/news/pixtral-large/ | https://mistral.ai/news/rails-testing-on-autopilot-building-an-agent-that-writes-what-developers-wont/ | https://mistral.ai/news/search-toolkit/ | https://mistral.ai/news/september-24-release/ | https://mistral.ai/news/unlocking-potential-vision-language-models-satellite-imagery-fine-tuning/ | https://mistral.ai/news/vibe-agent/ | https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5/ | https://mistral.ai/news/voxtral-transcribe-2/ | https://mistral.ai/news/voxtral-tts/ | https://mistral.ai/news/voxtral/ | https://mistral.ai/news/workflows/ | https://mistral.ai/partners/ | https://mistral.ai/preview/ | https://mistral.ai/pricing/ | https://mistral.ai/products/ | https://mistral.ai/products/compute/ | https://mistral.ai/products/forge/ | https://mistral.ai/products/studio/ | https://mistral.ai/products/vibe/ | https://mistral.ai/products/vibe/code/ | https://mistral.ai/report/ | https://mistral.ai/services/ | https://mistral.ai/solutions/ | https://mistral.ai/solutions/coding/ | https://mistral.ai/solutions/custom-model-training/ | https://mistral.ai/solutions/document-ai/ | https://mistral.ai/solutions/speech/",
+    "sha256": "c0aedb861efc7c0ad9faaeb17176fc1c1cab4d1a70aa3bcc06812450977ba04a",
+    "bytes": 4427
+  },
+  {
+    "category": "ui-sprites",
+    "filename": "source/ui/icon-m-lightbulb.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/icon-m-lightbulb.svg",
+    "source_pages": "https://mistral.ai/ | https://mistral.ai/fr/ | https://mistral.ai/it/ | https://mistral.ai/preview/",
+    "sha256": "06fa215246acc4cb528e5d58f22192f430748aab81b8f83b402ce59d4896b4c4",
+    "bytes": 7266
+  },
+  {
+    "category": "ui-sprites",
+    "filename": "source/ui/icon-m-microphone.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/icon-m-microphone.svg",
+    "source_pages": "https://mistral.ai/ | https://mistral.ai/about/ | https://mistral.ai/brand/ | https://mistral.ai/careers/ | https://mistral.ai/contact/ | https://mistral.ai/customers/ | https://mistral.ai/customers/airbus/ | https://mistral.ai/customers/ardian/ | https://mistral.ai/customers/asml/ | https://mistral.ai/customers/austrian-academy-of-sciences/ | https://mistral.ai/customers/axa/ | https://mistral.ai/customers/belfius/ | https://mistral.ai/customers/bigdatacorp/ | https://mistral.ai/customers/bmw/ | https://mistral.ai/customers/bnp-paribas-quote-as-feature/ | https://mistral.ai/customers/bnp-paribas/ | https://mistral.ai/customers/brave/ | https://mistral.ai/customers/capgemini/ | https://mistral.ai/customers/cisco/ | https://mistral.ai/customers/cloudflare/ | https://mistral.ai/customers/cma-cgm/ | https://mistral.ai/customers/dso/ | https://mistral.ai/customers/epo/ | https://mistral.ai/customers/ericsson/ | https://mistral.ai/customers/fastweb/ | https://mistral.ai/customers/france-travail/ | https://mistral.ai/customers/french-ministry-of-defense/ | https://mistral.ai/customers/french-ministry-of-digital-transition/ | https://mistral.ai/customers/front/ | https://mistral.ai/customers/gojob/ | https://mistral.ai/customers/government-of-luxembourg/ | https://mistral.ai/customers/harvey/ | https://mistral.ai/customers/helsing/ | https://mistral.ai/customers/hsbc/ | https://mistral.ai/customers/htx/ | https://mistral.ai/customers/hugging-face/ | https://mistral.ai/customers/ibm/ | https://mistral.ai/customers/knowunity/ | https://mistral.ai/customers/lamini/ | https://mistral.ai/customers/lindy/ | https://mistral.ai/customers/mars/ | https://mistral.ai/customers/ministry-of-high-tech-industry-of-armenia/ | https://mistral.ai/customers/mirakl/ | https://mistral.ai/customers/mongodb/ | https://mistral.ai/customers/octoai/ | https://mistral.ai/customers/orange/ | https://mistral.ai/customers/pierre-fabre/ | https://mistral.ai/customers/pretto/ | https://mistral.ai/customers/qonto/ | https://mistral.ai/customers/quora/ | https://mistral.ai/customers/sap/ | https://mistral.ai/customers/singapores-ministry-of-defence-mindef/ | https://mistral.ai/customers/sncf/ | https://mistral.ai/customers/snowflake/ | https://mistral.ai/customers/stellantis/ | https://mistral.ai/customers/superinsight/ | https://mistral.ai/customers/synapse-medicine/ | https://mistral.ai/customers/totalenergies/ | https://mistral.ai/customers/university-of-groningen/ | https://mistral.ai/customers/veolia/ | https://mistral.ai/customers/zalando/ | https://mistral.ai/debug/ | https://mistral.ai/error/ | https://mistral.ai/fr/ | https://mistral.ai/fr/about/ | https://mistral.ai/fr/brand/ | https://mistral.ai/fr/careers/ | https://mistral.ai/fr/contact/ | https://mistral.ai/fr/customers/ | https://mistral.ai/fr/customers/airbus/ | https://mistral.ai/fr/customers/ardian/ | https://mistral.ai/fr/customers/asml/ | https://mistral.ai/fr/customers/austrian-academy-of-sciences/ | https://mistral.ai/fr/customers/axa/ | https://mistral.ai/fr/customers/belfius/ | https://mistral.ai/fr/customers/bigdatacorp/ | https://mistral.ai/fr/customers/bmw/ | https://mistral.ai/fr/customers/bnp-paribas-quote-as-feature/ | https://mistral.ai/fr/customers/bnp-paribas/ | https://mistral.ai/fr/customers/brave/ | https://mistral.ai/fr/customers/capgemini/ | https://mistral.ai/fr/customers/cisco/ | https://mistral.ai/fr/customers/cloudflare/ | https://mistral.ai/fr/customers/cma-cgm/ | https://mistral.ai/fr/customers/dso/ | https://mistral.ai/fr/customers/epo/ | https://mistral.ai/fr/customers/ericsson/ | https://mistral.ai/fr/customers/fastweb/ | https://mistral.ai/fr/customers/france-travail/ | https://mistral.ai/fr/customers/french-ministry-of-defense/ | https://mistral.ai/fr/customers/french-ministry-of-digital-transition/ | https://mistral.ai/fr/customers/front/ | https://mistral.ai/fr/customers/gojob/ | https://mistral.ai/fr/customers/government-of-luxembourg/ | https://mistral.ai/fr/customers/harvey/ | https://mistral.ai/fr/customers/helsing/ | https://mistral.ai/fr/customers/hsbc/ | https://mistral.ai/fr/customers/htx/ | https://mistral.ai/fr/customers/hugging-face/ | https://mistral.ai/fr/customers/ibm/ | https://mistral.ai/fr/customers/knowunity/ | https://mistral.ai/fr/customers/lamini/ | https://mistral.ai/fr/customers/lindy/ | https://mistral.ai/fr/customers/mars/ | https://mistral.ai/fr/customers/ministry-of-high-tech-industry-of-armenia/ | https://mistral.ai/fr/customers/mirakl/ | https://mistral.ai/fr/customers/mongodb/ | https://mistral.ai/fr/customers/octoai/ | https://mistral.ai/fr/customers/orange/ | https://mistral.ai/fr/customers/pierre-fabre/ | https://mistral.ai/fr/customers/pretto/ | https://mistral.ai/fr/customers/qonto/ | https://mistral.ai/fr/customers/quora/ | https://mistral.ai/fr/customers/sap/ | https://mistral.ai/fr/customers/singapores-ministry-of-defence-mindef/ | https://mistral.ai/fr/customers/sncf/ | https://mistral.ai/fr/customers/snowflake/ | https://mistral.ai/fr/customers/stellantis/ | https://mistral.ai/fr/customers/superinsight/ | https://mistral.ai/fr/customers/synapse-medicine/ | https://mistral.ai/fr/customers/totalenergies/ | https://mistral.ai/fr/customers/university-of-groningen/ | https://mistral.ai/fr/customers/veolia/ | https://mistral.ai/fr/customers/zalando/ | https://mistral.ai/fr/error/ | https://mistral.ai/fr/industry/ | https://mistral.ai/fr/industry/finance/ | https://mistral.ai/fr/industry/manufacturing/ | https://mistral.ai/fr/industry/public-sector/ | https://mistral.ai/fr/legal/ | https://mistral.ai/fr/legal/child-abuse/ | https://mistral.ai/fr/license-mistral-ai-models-for-nvidia-inference-microservices/ | https://mistral.ai/fr/models/ | https://mistral.ai/fr/news/ | https://mistral.ai/fr/news/2024-ft-hackathon/ | https://mistral.ai/fr/news/about-mistral-ai/ | https://mistral.ai/fr/news/accelerate-ai-native-industry/ | https://mistral.ai/fr/news/agentic-workflows-from-meetings-to-dev-tickets/ | https://mistral.ai/fr/news/agents-api/ | https://mistral.ai/fr/news/ai-for-citizens/ | https://mistral.ai/fr/news/ai-now-summit-2026/ | https://mistral.ai/fr/news/ai-studio/ | https://mistral.ai/fr/news/all-new-le-chat/ | https://mistral.ai/fr/news/announcing-mistral-7b/ | https://mistral.ai/fr/news/batch-api/ | https://mistral.ai/fr/news/build-tweak-repeat/ | https://mistral.ai/fr/news/codestral-25-08/ | https://mistral.ai/fr/news/codestral-2501/ | https://mistral.ai/fr/news/codestral-embed/ | https://mistral.ai/fr/news/codestral-mamba/ | https://mistral.ai/fr/news/codestral/ | https://mistral.ai/fr/news/connectors/ | https://mistral.ai/fr/news/customization/ | https://mistral.ai/fr/news/debugging-memory-leak-in-vllm/ | https://mistral.ai/fr/news/devstral-2-vibe-cli/ | https://mistral.ai/fr/news/devstral-2507/ | https://mistral.ai/fr/news/devstral/ | https://mistral.ai/fr/news/forge/ | https://mistral.ai/fr/news/introducing-physics-ai-at-mistral/ | https://mistral.ai/fr/news/ki-fur-deutschland/ | https://mistral.ai/fr/news/la-plateforme/ | https://mistral.ai/fr/news/le-chat-dives-deep/ | https://mistral.ai/fr/news/le-chat-enterprise/ | https://mistral.ai/fr/news/le-chat-mcp-connectors-memories/ | https://mistral.ai/fr/news/le-chat-mistral/ | https://mistral.ai/fr/news/leanstral/ | https://mistral.ai/fr/news/llm-as-rag-judge/ | https://mistral.ai/fr/news/magistral/ | https://mistral.ai/fr/news/mathstral/ | https://mistral.ai/fr/news/memory/ | https://mistral.ai/fr/news/ministraux/ | https://mistral.ai/fr/news/mistral-3/ | https://mistral.ai/fr/news/mistral-afp/ | https://mistral.ai/fr/news/mistral-ai-and-nvidia-partner-to-accelerate-open-frontier-models/ | https://mistral.ai/fr/news/mistral-ai-non-production-license-mnpl/ | https://mistral.ai/fr/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai/ | https://mistral.ai/fr/news/mistral-chat/ | https://mistral.ai/fr/news/mistral-code/ | https://mistral.ai/fr/news/mistral-compute/ | https://mistral.ai/fr/news/mistral-large-2407/ | https://mistral.ai/fr/news/mistral-large/ | https://mistral.ai/fr/news/mistral-medium-3/ | https://mistral.ai/fr/news/mistral-moderation/ | https://mistral.ai/fr/news/mistral-nemo/ | https://mistral.ai/fr/news/mistral-ocr-3/ | https://mistral.ai/fr/news/mistral-ocr/ | https://mistral.ai/fr/news/mistral-saba/ | https://mistral.ai/fr/news/mistral-small-3-1/ | https://mistral.ai/fr/news/mistral-small-3/ | https://mistral.ai/fr/news/mistral-small-4/ | https://mistral.ai/fr/news/mistral-vibe-2-0/ | https://mistral.ai/fr/news/mixtral-8x22b/ | https://mistral.ai/fr/news/mixtral-of-experts/ | https://mistral.ai/fr/news/ocr-4/ | https://mistral.ai/fr/news/our-contribution-to-a-global-environmental-standard-for-ai/ | https://mistral.ai/fr/news/physics-ai-research/ | https://mistral.ai/fr/news/pixtral-12b/ | https://mistral.ai/fr/news/pixtral-large/ | https://mistral.ai/fr/news/rails-testing-on-autopilot-building-an-agent-that-writes-what-developers-wont/ | https://mistral.ai/fr/news/search-toolkit/ | https://mistral.ai/fr/news/september-24-release/ | https://mistral.ai/fr/news/unlocking-potential-vision-language-models-satellite-imagery-fine-tuning/ | https://mistral.ai/fr/news/vibe-agent/ | https://mistral.ai/fr/news/vibe-remote-agents-mistral-medium-3-5/ | https://mistral.ai/fr/news/voxtral-transcribe-2/ | https://mistral.ai/fr/news/voxtral-tts/ | https://mistral.ai/fr/news/voxtral/ | https://mistral.ai/fr/news/workflows/ | https://mistral.ai/fr/partners/ | https://mistral.ai/fr/pricing/ | https://mistral.ai/fr/products/ | https://mistral.ai/fr/products/compute/ | https://mistral.ai/fr/products/forge/ | https://mistral.ai/fr/products/studio/ | https://mistral.ai/fr/products/vibe/ | https://mistral.ai/fr/products/vibe/code/ | https://mistral.ai/fr/report/ | https://mistral.ai/fr/services/ | https://mistral.ai/fr/solutions/ | https://mistral.ai/fr/solutions/coding/ | https://mistral.ai/fr/solutions/custom-model-training/ | https://mistral.ai/fr/solutions/document-ai/ | https://mistral.ai/fr/solutions/speech/ | https://mistral.ai/industry/ | https://mistral.ai/industry/finance/ | https://mistral.ai/industry/manufacturing/ | https://mistral.ai/industry/public-sector/ | https://mistral.ai/it/ | https://mistral.ai/it/about/ | https://mistral.ai/it/brand/ | https://mistral.ai/it/careers/ | https://mistral.ai/it/contact/ | https://mistral.ai/it/customers/ | https://mistral.ai/it/customers/airbus/ | https://mistral.ai/it/customers/ardian/ | https://mistral.ai/it/customers/asml/ | https://mistral.ai/it/customers/austrian-academy-of-sciences/ | https://mistral.ai/it/customers/axa/ | https://mistral.ai/it/customers/belfius/ | https://mistral.ai/it/customers/bigdatacorp/ | https://mistral.ai/it/customers/bmw/ | https://mistral.ai/it/customers/bnp-paribas-quote-as-feature/ | https://mistral.ai/it/customers/bnp-paribas/ | https://mistral.ai/it/customers/brave/ | https://mistral.ai/it/customers/capgemini/ | https://mistral.ai/it/customers/cisco/ | https://mistral.ai/it/customers/cloudflare/ | https://mistral.ai/it/customers/cma-cgm/ | https://mistral.ai/it/customers/dso/ | https://mistral.ai/it/customers/epo/ | https://mistral.ai/it/customers/ericsson/ | https://mistral.ai/it/customers/fastweb/ | https://mistral.ai/it/customers/france-travail/ | https://mistral.ai/it/customers/french-ministry-of-defense/ | https://mistral.ai/it/customers/french-ministry-of-digital-transition/ | https://mistral.ai/it/customers/front/ | https://mistral.ai/it/customers/gojob/ | https://mistral.ai/it/customers/government-of-luxembourg/ | https://mistral.ai/it/customers/harvey/ | https://mistral.ai/it/customers/helsing/ | https://mistral.ai/it/customers/hsbc/ | https://mistral.ai/it/customers/htx/ | https://mistral.ai/it/customers/hugging-face/ | https://mistral.ai/it/customers/ibm/ | https://mistral.ai/it/customers/knowunity/ | https://mistral.ai/it/customers/lamini/ | https://mistral.ai/it/customers/lindy/ | https://mistral.ai/it/customers/mars/ | https://mistral.ai/it/customers/ministry-of-high-tech-industry-of-armenia/ | https://mistral.ai/it/customers/mirakl/ | https://mistral.ai/it/customers/mongodb/ | https://mistral.ai/it/customers/octoai/ | https://mistral.ai/it/customers/orange/ | https://mistral.ai/it/customers/pierre-fabre/ | https://mistral.ai/it/customers/pretto/ | https://mistral.ai/it/customers/qonto/ | https://mistral.ai/it/customers/quora/ | https://mistral.ai/it/customers/sap/ | https://mistral.ai/it/customers/singapores-ministry-of-defence-mindef/ | https://mistral.ai/it/customers/sncf/ | https://mistral.ai/it/customers/snowflake/ | https://mistral.ai/it/customers/stellantis/ | https://mistral.ai/it/customers/superinsight/ | https://mistral.ai/it/customers/synapse-medicine/ | https://mistral.ai/it/customers/totalenergies/ | https://mistral.ai/it/customers/university-of-groningen/ | https://mistral.ai/it/customers/veolia/ | https://mistral.ai/it/customers/zalando/ | https://mistral.ai/it/error/ | https://mistral.ai/it/industry/ | https://mistral.ai/it/industry/finance/ | https://mistral.ai/it/industry/manufacturing/ | https://mistral.ai/it/industry/public-sector/ | https://mistral.ai/it/legal/ | https://mistral.ai/it/legal/child-abuse/ | https://mistral.ai/it/license-mistral-ai-models-for-nvidia-inference-microservices/ | https://mistral.ai/it/models/ | https://mistral.ai/it/news/ | https://mistral.ai/it/news/2024-ft-hackathon/ | https://mistral.ai/it/news/about-mistral-ai/ | https://mistral.ai/it/news/accelerate-ai-native-industry/ | https://mistral.ai/it/news/agentic-workflows-from-meetings-to-dev-tickets/ | https://mistral.ai/it/news/agents-api/ | https://mistral.ai/it/news/ai-for-citizens/ | https://mistral.ai/it/news/ai-now-summit-2026/ | https://mistral.ai/it/news/ai-studio/ | https://mistral.ai/it/news/all-new-le-chat/ | https://mistral.ai/it/news/announcing-mistral-7b/ | https://mistral.ai/it/news/batch-api/ | https://mistral.ai/it/news/build-tweak-repeat/ | https://mistral.ai/it/news/codestral-25-08/ | https://mistral.ai/it/news/codestral-2501/ | https://mistral.ai/it/news/codestral-embed/ | https://mistral.ai/it/news/codestral-mamba/ | https://mistral.ai/it/news/codestral/ | https://mistral.ai/it/news/connectors/ | https://mistral.ai/it/news/customization/ | https://mistral.ai/it/news/debugging-memory-leak-in-vllm/ | https://mistral.ai/it/news/devstral-2-vibe-cli/ | https://mistral.ai/it/news/devstral-2507/ | https://mistral.ai/it/news/devstral/ | https://mistral.ai/it/news/forge/ | https://mistral.ai/it/news/introducing-physics-ai-at-mistral/ | https://mistral.ai/it/news/ki-fur-deutschland/ | https://mistral.ai/it/news/la-plateforme/ | https://mistral.ai/it/news/le-chat-dives-deep/ | https://mistral.ai/it/news/le-chat-enterprise/ | https://mistral.ai/it/news/le-chat-mcp-connectors-memories/ | https://mistral.ai/it/news/le-chat-mistral/ | https://mistral.ai/it/news/leanstral/ | https://mistral.ai/it/news/llm-as-rag-judge/ | https://mistral.ai/it/news/magistral/ | https://mistral.ai/it/news/mathstral/ | https://mistral.ai/it/news/memory/ | https://mistral.ai/it/news/ministraux/ | https://mistral.ai/it/news/mistral-3/ | https://mistral.ai/it/news/mistral-afp/ | https://mistral.ai/it/news/mistral-ai-and-nvidia-partner-to-accelerate-open-frontier-models/ | https://mistral.ai/it/news/mistral-ai-non-production-license-mnpl/ | https://mistral.ai/it/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai/ | https://mistral.ai/it/news/mistral-chat/ | https://mistral.ai/it/news/mistral-code/ | https://mistral.ai/it/news/mistral-compute/ | https://mistral.ai/it/news/mistral-large-2407/ | https://mistral.ai/it/news/mistral-large/ | https://mistral.ai/it/news/mistral-medium-3/ | https://mistral.ai/it/news/mistral-moderation/ | https://mistral.ai/it/news/mistral-nemo/ | https://mistral.ai/it/news/mistral-ocr-3/ | https://mistral.ai/it/news/mistral-ocr/ | https://mistral.ai/it/news/mistral-saba/ | https://mistral.ai/it/news/mistral-small-3-1/ | https://mistral.ai/it/news/mistral-small-3/ | https://mistral.ai/it/news/mistral-small-4/ | https://mistral.ai/it/news/mistral-vibe-2-0/ | https://mistral.ai/it/news/mixtral-8x22b/ | https://mistral.ai/it/news/mixtral-of-experts/ | https://mistral.ai/it/news/ocr-4/ | https://mistral.ai/it/news/our-contribution-to-a-global-environmental-standard-for-ai/ | https://mistral.ai/it/news/physics-ai-research/ | https://mistral.ai/it/news/pixtral-12b/ | https://mistral.ai/it/news/pixtral-large/ | https://mistral.ai/it/news/rails-testing-on-autopilot-building-an-agent-that-writes-what-developers-wont/ | https://mistral.ai/it/news/search-toolkit/ | https://mistral.ai/it/news/september-24-release/ | https://mistral.ai/it/news/unlocking-potential-vision-language-models-satellite-imagery-fine-tuning/ | https://mistral.ai/it/news/vibe-agent/ | https://mistral.ai/it/news/vibe-remote-agents-mistral-medium-3-5/ | https://mistral.ai/it/news/voxtral-transcribe-2/ | https://mistral.ai/it/news/voxtral-tts/ | https://mistral.ai/it/news/voxtral/ | https://mistral.ai/it/news/workflows/ | https://mistral.ai/it/partners/ | https://mistral.ai/it/pricing/ | https://mistral.ai/it/products/ | https://mistral.ai/it/products/compute/ | https://mistral.ai/it/products/forge/ | https://mistral.ai/it/products/studio/ | https://mistral.ai/it/products/vibe/ | https://mistral.ai/it/products/vibe/code/ | https://mistral.ai/it/report/ | https://mistral.ai/it/services/ | https://mistral.ai/it/solutions/ | https://mistral.ai/it/solutions/coding/ | https://mistral.ai/it/solutions/custom-model-training/ | https://mistral.ai/it/solutions/document-ai/ | https://mistral.ai/it/solutions/speech/ | https://mistral.ai/legal/ | https://mistral.ai/legal/child-abuse/ | https://mistral.ai/license-mistral-ai-models-for-nvidia-inference-microservices/ | https://mistral.ai/models/ | https://mistral.ai/news/ | https://mistral.ai/news/2024-ft-hackathon/ | https://mistral.ai/news/about-mistral-ai/ | https://mistral.ai/news/accelerate-ai-native-industry/ | https://mistral.ai/news/agentic-workflows-from-meetings-to-dev-tickets/ | https://mistral.ai/news/agents-api/ | https://mistral.ai/news/ai-for-citizens/ | https://mistral.ai/news/ai-now-summit-2026/ | https://mistral.ai/news/ai-studio/ | https://mistral.ai/news/all-new-le-chat/ | https://mistral.ai/news/announcing-mistral-7b/ | https://mistral.ai/news/batch-api/ | https://mistral.ai/news/build-tweak-repeat/ | https://mistral.ai/news/codestral-25-08/ | https://mistral.ai/news/codestral-2501/ | https://mistral.ai/news/codestral-embed/ | https://mistral.ai/news/codestral-mamba/ | https://mistral.ai/news/codestral/ | https://mistral.ai/news/connectors/ | https://mistral.ai/news/customization/ | https://mistral.ai/news/debugging-memory-leak-in-vllm/ | https://mistral.ai/news/devstral-2-vibe-cli/ | https://mistral.ai/news/devstral-2507/ | https://mistral.ai/news/devstral/ | https://mistral.ai/news/forge/ | https://mistral.ai/news/introducing-physics-ai-at-mistral/ | https://mistral.ai/news/ki-fur-deutschland/ | https://mistral.ai/news/la-plateforme/ | https://mistral.ai/news/le-chat-dives-deep/ | https://mistral.ai/news/le-chat-enterprise/ | https://mistral.ai/news/le-chat-mcp-connectors-memories/ | https://mistral.ai/news/le-chat-mistral/ | https://mistral.ai/news/leanstral/ | https://mistral.ai/news/llm-as-rag-judge/ | https://mistral.ai/news/magistral/ | https://mistral.ai/news/mathstral/ | https://mistral.ai/news/memory/ | https://mistral.ai/news/ministraux/ | https://mistral.ai/news/mistral-3/ | https://mistral.ai/news/mistral-afp/ | https://mistral.ai/news/mistral-ai-and-nvidia-partner-to-accelerate-open-frontier-models/ | https://mistral.ai/news/mistral-ai-non-production-license-mnpl/ | https://mistral.ai/news/mistral-ai-raises-1-7-b-to-accelerate-technological-progress-with-ai/ | https://mistral.ai/news/mistral-chat/ | https://mistral.ai/news/mistral-code/ | https://mistral.ai/news/mistral-compute/ | https://mistral.ai/news/mistral-large-2407/ | https://mistral.ai/news/mistral-large/ | https://mistral.ai/news/mistral-medium-3/ | https://mistral.ai/news/mistral-moderation/ | https://mistral.ai/news/mistral-nemo/ | https://mistral.ai/news/mistral-ocr-3/ | https://mistral.ai/news/mistral-ocr/ | https://mistral.ai/news/mistral-saba/ | https://mistral.ai/news/mistral-small-3-1/ | https://mistral.ai/news/mistral-small-3/ | https://mistral.ai/news/mistral-small-4/ | https://mistral.ai/news/mistral-vibe-2-0/ | https://mistral.ai/news/mixtral-8x22b/ | https://mistral.ai/news/mixtral-of-experts/ | https://mistral.ai/news/ocr-4/ | https://mistral.ai/news/our-contribution-to-a-global-environmental-standard-for-ai/ | https://mistral.ai/news/physics-ai-research/ | https://mistral.ai/news/pixtral-12b/ | https://mistral.ai/news/pixtral-large/ | https://mistral.ai/news/rails-testing-on-autopilot-building-an-agent-that-writes-what-developers-wont/ | https://mistral.ai/news/search-toolkit/ | https://mistral.ai/news/september-24-release/ | https://mistral.ai/news/unlocking-potential-vision-language-models-satellite-imagery-fine-tuning/ | https://mistral.ai/news/vibe-agent/ | https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5/ | https://mistral.ai/news/voxtral-transcribe-2/ | https://mistral.ai/news/voxtral-tts/ | https://mistral.ai/news/voxtral/ | https://mistral.ai/news/workflows/ | https://mistral.ai/partners/ | https://mistral.ai/preview/ | https://mistral.ai/pricing/ | https://mistral.ai/products/ | https://mistral.ai/products/compute/ | https://mistral.ai/products/forge/ | https://mistral.ai/products/studio/ | https://mistral.ai/products/vibe/ | https://mistral.ai/products/vibe/code/ | https://mistral.ai/report/ | https://mistral.ai/services/ | https://mistral.ai/solutions/ | https://mistral.ai/solutions/coding/ | https://mistral.ai/solutions/custom-model-training/ | https://mistral.ai/solutions/document-ai/ | https://mistral.ai/solutions/speech/",
+    "sha256": "43ddfb3fbb251b5d5f6900827fe94940a81d7b3d738e6442961e5a47d41102ad",
+    "bytes": 10383
+  },
+  {
+    "category": "ui-sprites",
+    "filename": "source/ui/icon-m-mountain.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/icon-m-mountain.svg",
+    "source_pages": "https://mistral.ai/ | https://mistral.ai/fr/ | https://mistral.ai/it/ | https://mistral.ai/preview/",
+    "sha256": "8fa574691cc8d8baa04e17b1e11c7f4ff52bab0b53f492fa22b847dc45133572",
+    "bytes": 7753
+  },
+  {
+    "category": "ui-sprites",
+    "filename": "source/ui/icon-m-shoe.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/icon-m-shoe.svg",
+    "source_pages": "https://mistral.ai/fr/models/ | https://mistral.ai/fr/news/vibe-remote-agents-mistral-medium-3-5/ | https://mistral.ai/fr/pricing/ | https://mistral.ai/fr/products/vibe/code/ | https://mistral.ai/fr/solutions/coding/ | https://mistral.ai/it/models/ | https://mistral.ai/it/news/vibe-remote-agents-mistral-medium-3-5/ | https://mistral.ai/it/pricing/ | https://mistral.ai/it/products/vibe/code/ | https://mistral.ai/it/solutions/coding/ | https://mistral.ai/models/ | https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5/ | https://mistral.ai/pricing/ | https://mistral.ai/products/vibe/code/ | https://mistral.ai/solutions/coding/",
+    "sha256": "408bef45ce4138e4170288660328a74f6277508a9770ea6d9b246ce469f73cb3",
+    "bytes": 6885
+  },
+  {
+    "category": "ui-sprites",
+    "filename": "source/ui/icon-magnifying-glass.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/icon-magnifying-glass.svg",
+    "source_pages": "https://mistral.ai/fr/services/ | https://mistral.ai/it/services/ | https://mistral.ai/services/",
+    "sha256": "9f23b7a93626ca1c94ce153eb5b83abb94b55e1e9d4b2392bb083eba1c1fa0bb",
+    "bytes": 5053
+  },
+  {
+    "category": "ui-sprites",
+    "filename": "source/ui/icon-mailbox.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/icon-mailbox.svg",
+    "source_pages": "https://mistral.ai/contact/ | https://mistral.ai/fr/contact/ | https://mistral.ai/fr/products/vibe/code/ | https://mistral.ai/it/contact/ | https://mistral.ai/it/products/vibe/code/ | https://mistral.ai/products/vibe/code/",
+    "sha256": "382b01d53014b5fa20f281833ddd20713834dac2d203e0510ce069bbf62d8c33",
+    "bytes": 8150
+  },
+  {
+    "category": "ui-sprites",
+    "filename": "source/ui/icon-office-chair.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/icon-office-chair.svg",
+    "source_pages": "https://mistral.ai/fr/products/vibe/ | https://mistral.ai/it/products/vibe/ | https://mistral.ai/products/vibe/",
+    "sha256": "3d8ebd9f1a2dad15f57f353ffa2b0ce97df693d52a3d426b621ca22b0844ba29",
+    "bytes": 3583
+  },
+  {
+    "category": "ui-sprites",
+    "filename": "source/ui/icon-pencil.webp",
+    "source_url": "https://mistral.ai/_astro/icon-pencil_18zvEz.webp?dpl=6a3ad1d1ddeeff3ec7c9cb8e",
+    "source_pages": "https://mistral.ai/fr/industry/finance/ | https://mistral.ai/fr/industry/manufacturing/ | https://mistral.ai/fr/industry/public-sector/ | https://mistral.ai/fr/pricing/ | https://mistral.ai/industry/finance/ | https://mistral.ai/industry/manufacturing/ | https://mistral.ai/industry/public-sector/ | https://mistral.ai/it/industry/finance/ | https://mistral.ai/it/industry/manufacturing/ | https://mistral.ai/it/industry/public-sector/ | https://mistral.ai/it/pricing/ | https://mistral.ai/pricing/",
+    "sha256": "d3d7fcfe7c9baa8b9a021842ff4f595e4b76cd5a1c1b8295ae535434bfadf842",
+    "bytes": 3340
+  },
+  {
+    "category": "ui-sprites",
+    "filename": "source/ui/icon-pink-present.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/icon-pink-present.svg",
+    "source_pages": "https://mistral.ai/fr/pricing/ | https://mistral.ai/it/pricing/ | https://mistral.ai/pricing/",
+    "sha256": "02a61a8bdca12f806493ce02014397dc8c5d83d4ff68cf4cc1cb0e21c1cb7434",
+    "bytes": 15708
+  },
+  {
+    "category": "ui-sprites",
+    "filename": "source/ui/icon-puzzle-piece.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/icon-puzzle-piece.svg",
+    "source_pages": "https://mistral.ai/fr/products/vibe/code/ | https://mistral.ai/it/products/vibe/code/ | https://mistral.ai/products/vibe/code/",
+    "sha256": "2d698462786eb63c335b8a7f3469df59b9a24bb0a4b6ae87dfd35cdff1105141",
+    "bytes": 12086
+  },
+  {
+    "category": "ui-sprites",
+    "filename": "source/ui/icon-rocket.webp",
+    "source_url": "https://mistral.ai/_astro/icon-rocket_1OfxzR.webp?dpl=6a3ad1d1ddeeff3ec7c9cb8e",
+    "source_pages": "https://mistral.ai/fr/industry/manufacturing/ | https://mistral.ai/industry/manufacturing/ | https://mistral.ai/it/industry/manufacturing/",
+    "sha256": "bee35d6b50fcf5d0d690c82f7ec35955ffcb45272686b23179a018b76a3185d8",
+    "bytes": 5630
+  },
+  {
+    "category": "ui-sprites",
+    "filename": "source/ui/icon-rocks.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/icon-rocks.svg",
+    "source_pages": "https://mistral.ai/fr/products/compute/ | https://mistral.ai/it/products/compute/ | https://mistral.ai/products/compute/",
+    "sha256": "54761a24dbee63e89315c547defd793e9c7436e41962aa006cf039123f3b42b0",
+    "bytes": 5296
+  },
+  {
+    "category": "ui-sprites",
+    "filename": "source/ui/icon-rollup-chart.webp",
+    "source_url": "https://mistral.ai/_astro/icon-rollup-chart_1AbEsI.webp?dpl=6a3ad1d1ddeeff3ec7c9cb8e",
+    "source_pages": "https://mistral.ai/fr/industry/finance/ | https://mistral.ai/fr/industry/manufacturing/ | https://mistral.ai/fr/industry/public-sector/ | https://mistral.ai/fr/services/ | https://mistral.ai/industry/finance/ | https://mistral.ai/industry/manufacturing/ | https://mistral.ai/industry/public-sector/ | https://mistral.ai/it/industry/finance/ | https://mistral.ai/it/industry/manufacturing/ | https://mistral.ai/it/industry/public-sector/ | https://mistral.ai/it/services/ | https://mistral.ai/services/",
+    "sha256": "3587f99f0eb45ccd6886d169b100b8f15ec8cda38a6702db4bcea91f5e34b5b1",
+    "bytes": 2404
+  },
+  {
+    "category": "ui-sprites",
+    "filename": "source/ui/icon-ruby.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/icon-ruby.svg",
+    "source_pages": "https://mistral.ai/fr/pricing/ | https://mistral.ai/it/pricing/ | https://mistral.ai/pricing/",
+    "sha256": "3b87539269d576e0be8f27d8626dcf00bcce31444f09596f68dba270d01c9011",
+    "bytes": 11729
+  },
+  {
+    "category": "ui-sprites",
+    "filename": "source/ui/icon-shield-check.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/icon-shield-check.svg",
+    "source_pages": "https://mistral.ai/fr/products/compute/ | https://mistral.ai/fr/solutions/document-ai/ | https://mistral.ai/it/products/compute/ | https://mistral.ai/it/solutions/document-ai/ | https://mistral.ai/products/compute/ | https://mistral.ai/solutions/document-ai/",
+    "sha256": "3f06d6c1673a0e70544fabbcef7ebf78354c7a1188483f5df188797407c044d1",
+    "bytes": 13066
+  },
+  {
+    "category": "ui-sprites",
+    "filename": "source/ui/icon-target.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/icon-target.svg",
+    "source_pages": "https://mistral.ai/contact/ | https://mistral.ai/fr/contact/ | https://mistral.ai/it/contact/",
+    "sha256": "b414a4c81e0430ee41a14f2920c8261af5f116f09240a2f74f64df0c99da3f53",
+    "bytes": 8353
+  },
+  {
+    "category": "ui-sprites",
+    "filename": "source/ui/icon-temple.webp",
+    "source_url": "https://mistral.ai/_astro/icon-temple_1TXmY3.webp?dpl=6a3ad1d1ddeeff3ec7c9cb8e",
+    "source_pages": "https://mistral.ai/fr/industry/finance/ | https://mistral.ai/fr/products/forge/ | https://mistral.ai/fr/solutions/custom-model-training/ | https://mistral.ai/fr/solutions/document-ai/ | https://mistral.ai/fr/solutions/speech/ | https://mistral.ai/industry/finance/ | https://mistral.ai/it/industry/finance/ | https://mistral.ai/it/products/forge/ | https://mistral.ai/it/solutions/custom-model-training/ | https://mistral.ai/it/solutions/document-ai/ | https://mistral.ai/it/solutions/speech/ | https://mistral.ai/products/forge/ | https://mistral.ai/solutions/custom-model-training/ | https://mistral.ai/solutions/document-ai/ | https://mistral.ai/solutions/speech/",
+    "sha256": "eceb704c7886398e734561b76778deaaef1fe2fd1110cbd6ddf3b3fd2fe9ec98",
+    "bytes": 3280
+  },
+  {
+    "category": "ui-sprites",
+    "filename": "source/ui/icon-tool.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/icon-tool.svg",
+    "source_pages": "https://mistral.ai/fr/industry/manufacturing/ | https://mistral.ai/fr/products/compute/ | https://mistral.ai/fr/solutions/ | https://mistral.ai/fr/solutions/coding/ | https://mistral.ai/fr/solutions/custom-model-training/ | https://mistral.ai/fr/solutions/speech/ | https://mistral.ai/industry/manufacturing/ | https://mistral.ai/it/industry/manufacturing/ | https://mistral.ai/it/products/compute/ | https://mistral.ai/it/solutions/ | https://mistral.ai/it/solutions/coding/ | https://mistral.ai/it/solutions/custom-model-training/ | https://mistral.ai/it/solutions/speech/ | https://mistral.ai/products/compute/ | https://mistral.ai/solutions/ | https://mistral.ai/solutions/coding/ | https://mistral.ai/solutions/custom-model-training/ | https://mistral.ai/solutions/speech/",
+    "sha256": "d7bd60aadb6fbfd707ccad5c51c2b63b08d5d3c43edc81f9406bcbf90c29f8e3",
+    "bytes": 2350
+  },
+  {
+    "category": "ui-sprites",
+    "filename": "source/ui/icon-translation.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/icon-translation.svg",
+    "source_pages": "https://mistral.ai/fr/solutions/speech/ | https://mistral.ai/it/solutions/speech/ | https://mistral.ai/solutions/speech/",
+    "sha256": "a84c2be9d2c4aadff8a520c651e7459067beee30ec84b477adaeee4f7d3d01d1",
+    "bytes": 3543
+  },
+  {
+    "category": "ui-sprites",
+    "filename": "source/ui/icon-truck.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/icon-truck.svg",
+    "source_pages": "https://mistral.ai/fr/services/ | https://mistral.ai/fr/solutions/speech/ | https://mistral.ai/it/services/ | https://mistral.ai/it/solutions/speech/ | https://mistral.ai/services/ | https://mistral.ai/solutions/speech/",
+    "sha256": "5179966cf574578a271009a2ba0ba3dfeb515e7a285feb5f043d5e3c4a138904",
+    "bytes": 2800
+  },
+  {
+    "category": "ui-sprites",
+    "filename": "source/ui/robot.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/robot.svg",
+    "source_pages": "https://mistral.ai/ | https://mistral.ai/fr/ | https://mistral.ai/fr/industry/finance/ | https://mistral.ai/fr/industry/public-sector/ | https://mistral.ai/fr/products/compute/ | https://mistral.ai/fr/products/vibe/code/ | https://mistral.ai/industry/finance/ | https://mistral.ai/industry/public-sector/ | https://mistral.ai/it/ | https://mistral.ai/it/industry/finance/ | https://mistral.ai/it/industry/public-sector/ | https://mistral.ai/it/products/compute/ | https://mistral.ai/it/products/vibe/code/ | https://mistral.ai/preview/ | https://mistral.ai/products/compute/ | https://mistral.ai/products/vibe/code/",
+    "sha256": "9c974180cd9984d384c2e41af60d50fb988703439cebb0da5dd7dc952992bb58",
+    "bytes": 2168
+  },
+  {
+    "category": "ui-sprites",
+    "filename": "source/ui/satelite.svg",
+    "source_url": "https://mistral.ai/cms-media/api/media/file/satelite.svg",
+    "source_pages": "https://mistral.ai/ | https://mistral.ai/fr/ | https://mistral.ai/fr/industry/finance/ | https://mistral.ai/fr/products/compute/ | https://mistral.ai/industry/finance/ | https://mistral.ai/it/ | https://mistral.ai/it/industry/finance/ | https://mistral.ai/it/products/compute/ | https://mistral.ai/preview/ | https://mistral.ai/products/compute/",
+    "sha256": "e1f9823587cc9202fdedf3e5188a1919dc268059c08b811efb1646cc05654550",
+    "bytes": 3860
+  }
+]
