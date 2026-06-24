@@ -4,6 +4,8 @@
 
 ![Animated Mistral pixel cat](cats/cat-chilling-black.gif)
 
+![Overview of all transparent Mistral pixel icons](assets/mistral-pixel-icons-overview.png)
+
 ## What is included
 
 | Folder | Contents | Format |
